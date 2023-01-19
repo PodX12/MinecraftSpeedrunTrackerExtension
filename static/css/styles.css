@@ -1,0 +1,401 @@
+div {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'MinecraftiaRegular';
+}
+
+.aa-overlay {
+    color: #3f3f3f;
+    width: 500px;
+    height: 75%;
+    margin-top: 8%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+    transition: .2s ease-in-out;
+}
+
+.aa-overlay.hide {
+    left: -500px;
+}
+
+.title {
+    position: relative;
+    text-align: left;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.aa-main {
+    float: left;
+    width: 500px;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+    background-color: #c6c6c6;
+    border: 2px solid #000;
+    padding: 0 10px;
+}
+
+.aa-main:before {
+    content: " ";
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #555555;
+    border-right: 2px solid #555555;
+}
+
+.sprite {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 16px;
+    width: 16px;
+    background-repeat: no-repeat;
+}
+
+.inv-sprite,
+.slot-sprite {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+
+.adv-grid {
+    position: relative;
+    z-index: 2;
+    height: 90%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    box-shadow: inset 0 0 10px #000;
+    background-color: #565656;
+    color: #c6c6c6;
+    background-image: url(../img/nether_bricks.png);
+    background-size: 60%;
+    padding-bottom: 20px;
+}
+
+.adv-grid.hide {
+    display: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.adv-item {
+    width: 80px;
+    height: 95px;
+    margin: 5px;
+    font-size: 9px;
+    text-align: center;
+    float: left;
+    cursor: pointer;
+}
+
+.adv-img {
+    position: relative;
+    border-radius: 4px;
+    padding: 10px;
+    height: 70px;
+    width: 70px;
+    overflow: hidden;
+    margin: 0 auto;
+    background-image: url(../img/Advancement-plain-raw.png);
+    background-size: 100%;
+    transform: scale(0.9);
+    transition: .2s ease-in-out;
+}
+
+.challenge .adv-img {
+    background-image: url(../img/Advancement-fancy-raw.png);
+}
+
+.goal .adv-img {
+    background-image: url(../img/Advancement-oval-raw.png);
+}
+
+.adv-item.done .adv-img {
+    background-image: url(../img/Advancement-plain-worn.png);
+}
+
+.adv-item.done.challenge .adv-img {
+    background-image: url(../img/Advancement-fancy-worn.png);
+}
+
+.adv-item.done.goal .adv-img {
+    background-image: url(../img/Advancement-oval-worn.png);
+}
+
+.adv-item.hide {
+    display: none;
+}
+
+.adv-title {
+    text-shadow: 1px 1px 1px #000;
+    color: #eee;
+}
+
+.summary {
+    position: absolute;
+    left: 510px;
+    top: 0;
+}
+
+.summary .break {
+    border-top: 2px solid;
+    width: 60%;
+    margin: 4px auto;
+}
+
+.summary-item {
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.summary-item .item-display {
+    background-color: #c6c6c6;
+    border: 2px solid black;
+    width: 55px;
+    height: 55px;
+    padding: 2px 0;
+    position: relative;
+    margin: auto;
+}
+
+.summary-item .item-display:before {
+    content: " ";
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #555555;
+    border-right: 2px solid #555555;
+}
+
+.summary-item .item-title {
+    margin-top: 5px;
+    font-size: 10px;
+}
+
+.summary .item-display.show-more {
+    padding: 7px 0;
+    cursor: pointer;
+}
+
+.summary .item-display.show-more:hover {
+    color: #fff;
+}
+
+.adv-count {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 10px;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 0 4px;
+}
+
+.adv-hover {
+    display: block;
+    position: absolute;
+    background-color: #212121;
+    color: #54fc54;
+    top: 0px;
+    left: 510px;
+    border: 2px solid #000;
+    border-radius: 4px;
+    z-index: 10;
+    text-align: left;
+    width: 100%;
+    padding-bottom: 5px;
+}
+
+.adv-hover:before {
+    content: " ";
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-left: 2px solid #555555;
+    border-bottom: 2px solid #555555;
+    border-right: 2px solid #555555;
+}
+
+.adv-hover .hover-header {
+    position: relative;
+    background-color: #036a96;
+    height: 50px;
+    padding-left: 60px;
+    padding-top: 12px;
+    border-bottom: 2px solid #000;
+    color: #fcfcfc;
+    text-shadow: 2px 2px #000;
+}
+
+.adv-hover .hover-header:before {
+    content: " ";
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-top: 2px solid #0489c1;
+    border-bottom: 2px solid #012e40;
+    border-right: 2px solid #012e40;
+}
+
+.adv-hover .hover-name {
+    font-size: 14px;
+}
+
+.adv-hover .hover-description {
+    font-size: 12px;
+    padding: 10px;
+}
+
+.adv-hover .hover-explanation {
+    font-size: 12px;
+    padding: 10px;
+}
+
+.adv-hover .hover-header .adv-img {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    z-index: 12;
+}
+
+.criteria {
+    width: 50%;
+    float: left;
+    padding: 2px 10px;
+    font-size: 11px;
+}
+
+.criteria img {
+    margin-bottom: -3px;
+}
+
+.criteria.done {
+    background-color: #008000c0;
+}
+
+.action-list {
+    position: absolute;
+    z-index: 100;
+    text-align: right;
+    top: 3px;
+    right: 10px;
+    font-size: 12px;
+}
+
+.action-list .action-wrap {
+    display: inline-block;
+    border: 2px solid #000;
+}
+
+.action-list .action-wrap.hide {
+    display: none;
+}
+
+.action-list .action-wrap .action {
+    cursor: pointer;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #555555;
+    border-right: 2px solid #555555;
+    display: inline-block;
+    padding: 1px 5px;
+}
+
+.action-list .action:hover,
+.action-list .action.on {
+    border-top: 2px solid #555555;
+    border-left: 2px solid #555555;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+}
+
+.settings {
+    background: pink;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+}
+
+.adv-img.sub {
+    background-image: none;
+    background: radial-gradient(rgb(255, 255, 255), rgb(120, 120, 120));
+    border: 2px solid #fff;
+}
+
+.adv-item.done .adv-img.sub {
+    background: radial-gradient(rgb(255, 255, 255), rgb(170, 126, 15));
+}
+
+.adv-title {
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
+
+.split {
+    color: #fff;
+    text-shadow: 2px 2px #000;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+.split:after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+.split:nth-child(2n){
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.split .split-name {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    float: left;
+    height: 24px;
+    width: 50%;
+}
+
+.split .split-diff {
+    float: left;
+    height: 24px;
+    width: 25%;
+    text-align: right;
+    color: #008000;
+}
+
+.split .split-time {
+    float: left;
+    height: 24px;
+    width: 25%;
+    text-align: right;
+}

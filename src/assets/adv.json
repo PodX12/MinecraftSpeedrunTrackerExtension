@@ -1,0 +1,1648 @@
+{
+    "groups": [
+        {
+            "name": "Multipart",
+            "advancements": [
+                {
+                    "id": "minecraft:adventure/adventuring_time",
+                    "name": "Adventuring Time",
+                    "short_name": "Adventuring",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-diamond_boots",
+                    "criteria": {
+                        "goal": "Biomes Visited",
+                        "imageBase": "../img/biomes/",
+                        "criterion": [
+                            {
+                                "id": "minecraft:plains",
+                                "name": "Plains",
+                                "image": "plains.png",
+                                "class": "plains"
+                            },
+                            {
+                                "id": "minecraft:forest",
+                                "name": "Forest",
+                                "image": "forest.png",
+                                "class": "forest"
+                            },
+                            {
+                                "id": "minecraft:wooded_hills",
+                                "name": "Wooded Hills",
+                                "image": "wooded_hills.png",
+                                "class": "wooded_hills"
+                            },
+                            {
+                                "id": "minecraft:birch_forest",
+                                "name": "Birch Forest",
+                                "image": "birch_forest.png",
+                                "class": "birch_forest"
+                            },
+                            {
+                                "id": "minecraft:birch_forest_hills",
+                                "name": "Birch Hills",
+                                "image": "birch_forest_hills.png",
+                                "class": "birch_forest_hills"
+                            },
+                            {
+                                "id": "minecraft:dark_forest",
+                                "name": "Dark Forest",
+                                "image": "dark_forest.png",
+                                "class": "dark_forest"
+                            },
+                            {
+                                "id": "minecraft:swamp",
+                                "name": "Swamp",
+                                "image": "swamp.png",
+                                "class": "swamp"
+                            },
+                            {
+                                "id": "minecraft:taiga",
+                                "name": "Taiga",
+                                "image": "taiga.png",
+                                "class": "taiga"
+                            },
+                            {
+                                "id": "minecraft:taiga_hills",
+                                "name": "Taiga Hills",
+                                "image": "taiga_hills.png",
+                                "class": "taiga_hills"
+                            },
+                            {
+                                "id": "minecraft:giant_tree_taiga",
+                                "name": "Mega Taiga",
+                                "image": "giant_tree_taiga.png",
+                                "class": "giant_tree_taiga"
+                            },
+                            {
+                                "id": "minecraft:giant_tree_taiga_hills",
+                                "name": "Mega Taiga Hill",
+                                "image": "giant_tree_taiga_hills.png",
+                                "class": "giant_tree_taiga_hills"
+                            },
+                            {
+                                "id": "minecraft:snowy_taiga",
+                                "name": "Snowy Taiga",
+                                "image": "snowy_taiga.png",
+                                "class": "snowy_taiga"
+                            },
+                            {
+                                "id": "minecraft:snowy_taiga_hills",
+                                "name": "Snowy Taiga Hill",
+                                "image": "snowy_taiga_hills.png",
+                                "class": "snowy_taiga_hills"
+                            },
+                            {
+                                "id": "minecraft:snowy_tundra",
+                                "name": "Snowy Tundra",
+                                "image": "snowy_tundra.png",
+                                "class": "snowy_tundra"
+                            },
+                            {
+                                "id": "minecraft:snowy_mountains",
+                                "name": "Snowy Mountain",
+                                "image": "snowy_mountains.png",
+                                "class": "snowy_mountains"
+                            },
+                            {
+                                "id": "minecraft:snowy_beach",
+                                "name": "Snowy Beach",
+                                "image": "snowy_beach.png",
+                                "class": "snowy_beach"
+                            },
+                            {
+                                "id": "minecraft:frozen_river",
+                                "name": "Frozen River",
+                                "image": "frozen_river.png",
+                                "class": "frozen_river"
+                            },
+                            {
+                                "id": "minecraft:river",
+                                "name": "River",
+                                "image": "river.png",
+                                "class": "river"
+                            },
+                            {
+                                "id": "minecraft:desert",
+                                "name": "Desert",
+                                "image": "desert.png",
+                                "class": "desert"
+                            },
+                            {
+                                "id": "minecraft:desert_hills",
+                                "name": "Desert Hills",
+                                "image": "desert_hills.png",
+                                "class": "desert_hills"
+                            },
+                            {
+                                "id": "minecraft:savanna",
+                                "name": "Savanna",
+                                "image": "savanna.png",
+                                "class": "savanna"
+                            },
+                            {
+                                "id": "minecraft:savanna_plateau",
+                                "name": "Savanna Plateau",
+                                "image": "savanna_plateau.png",
+                                "class": "savanna_plateau"
+                            },
+                            {
+                                "id": "minecraft:jungle",
+                                "name": "Jungle",
+                                "image": "jungle.png",
+                                "class": "jungle"
+                            },
+                            {
+                                "id": "minecraft:jungle_edge",
+                                "name": "Jungle Edge",
+                                "image": "jungle_edge.png",
+                                "class": "jungle_edge"
+                            },
+                            {
+                                "id": "minecraft:jungle_hills",
+                                "name": "Jungle Hills",
+                                "image": "jungle_hills.png",
+                                "class": "jungle_hills"
+                            },
+                            {
+                                "id": "minecraft:bamboo_jungle",
+                                "name": "Bamboo",
+                                "image": "bamboo_jungle.png",
+                                "class": "bamboo_jungle"
+                            },
+                            {
+                                "id": "minecraft:bamboo_jungle_hills",
+                                "name": "Bamboo Hills",
+                                "image": "bamboo_jungle_hills.png",
+                                "class": "bamboo_jungle_hills"
+                            },
+                            {
+                                "id": "minecraft:stone_shore",
+                                "name": "Stone Shore",
+                                "image": "stone_shore.png",
+                                "class": "stone_shore"
+                            },
+                            {
+                                "id": "minecraft:mountains",
+                                "name": "Mountains",
+                                "image": "mountains.png",
+                                "class": "mountains"
+                            },
+                            {
+                                "id": "minecraft:wooded_mountains",
+                                "name": "Wooded Mountains",
+                                "image": "wooded_mountains.png",
+                                "class": "wooded_mountains"
+                            },
+                            {
+                                "id": "minecraft:badlands",
+                                "name": "Badlands",
+                                "image": "badlands.png",
+                                "class": "badlands"
+                            },
+                            {
+                                "id": "minecraft:badlands_plateau",
+                                "name": "Badlands Plateau",
+                                "image": "badlands_plateau.png",
+                                "class": "badlands_plateau"
+                            },
+                            {
+                                "id": "minecraft:wooded_badlands_plateau",
+                                "name": "Wooded Badlands Plateau",
+                                "image": "wooded_badlands_plateau.png",
+                                "class": "wooded_badlands_plateau"
+                            },
+                            {
+                                "id": "minecraft:mushroom_fields",
+                                "name": "Mushroom Fields",
+                                "image": "mushroom_fields.png",
+                                "class": "mushroom_fields"
+                            },
+                            {
+                                "id": "minecraft:mushroom_field_shore",
+                                "name": "Mushroom Shore",
+                                "image": "mushroom_field_shore.png",
+                                "class": "mushroom_field_shore"
+                            },
+                            {
+                                "id": "minecraft:beach",
+                                "name": "Beach",
+                                "image": "beach.png",
+                                "class": "beach"
+                            },
+                            {
+                                "id": "minecraft:warm_ocean",
+                                "name": "Warm Ocean",
+                                "image": "warm_ocean.png",
+                                "class": "warm_ocean"
+                            },
+                            {
+                                "id": "minecraft:lukewarm_ocean",
+                                "name": "Lukewarm Ocean",
+                                "image": "lukewarm_ocean.png",
+                                "class": "lukewarm_ocean"
+                            },
+                            {
+                                "id": "minecraft:deep_lukewarm_ocean",
+                                "name": "Deep Lukewarm",
+                                "image": "deep_lukewarm_ocean.png",
+                                "class": "deep_lukewarm_ocean"
+                            },
+                            {
+                                "id": "minecraft:cold_ocean",
+                                "name": "Cold Ocean",
+                                "image": "cold_ocean.png",
+                                "class": "cold_ocean"
+                            },
+                            {
+                                "id": "minecraft:deep_cold_ocean",
+                                "name": "Deep Cold Ocean",
+                                "image": "deep_cold_ocean.png",
+                                "class": "deep_cold_ocean"
+                            },
+                            {
+                                "id": "minecraft:deep_frozen_ocean",
+                                "name": "Deep Frozen",
+                                "image": "deep_frozen_ocean.png",
+                                "class": "deep_frozen_ocean"
+                            }
+                        ]
+                    },
+                    "description": "Discover every biome",
+                    "explanation": "Enter all 42 listed overworld biomes"
+                },
+                {
+                    "id": "minecraft:adventure/kill_all_mobs",
+                    "name": "Monsters Hunted",
+                    "short_name": "Monsters",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-iron_sword",
+                    "criteria": {
+                        "goal": "Monsters Killed",
+                        "imageBase": "../img/mobs/",
+                        "criterion": [
+                            {
+                                "id": "minecraft:creeper",
+                                "name": "Creeper",
+                                "image": "creeper.png",
+                                "class": "creeper"
+                            },
+                            {
+                                "id": "minecraft:zombie",
+                                "name": "Zombie",
+                                "image": "zombie.png",
+                                "class": "zombie"
+                            },
+                            {
+                                "id": "minecraft:skeleton",
+                                "name": "Skeleton",
+                                "image": "skeleton.png",
+                                "class": "skeleton"
+                            },
+                            {
+                                "id": "minecraft:husk",
+                                "name": "Husk",
+                                "image": "husk.png",
+                                "class": "husk"
+                            },
+                            {
+                                "id": "minecraft:drowned",
+                                "name": "Drowned",
+                                "image": "drowned.png",
+                                "class": "drowned"
+                            },
+                            {
+                                "id": "minecraft:stray",
+                                "name": "Stray",
+                                "image": "stray.png",
+                                "class": "stray"
+                            },
+                            {
+                                "id": "minecraft:spider",
+                                "name": "Spider",
+                                "image": "spider.png",
+                                "class": "spider"
+                            },
+                            {
+                                "id": "minecraft:cave_spider",
+                                "name": "Cave Spider",
+                                "image": "cave_spider.png",
+                                "class": "cave_spider"
+                            },
+                            {
+                                "id": "minecraft:enderman",
+                                "name": "Enderman",
+                                "image": "enderman.png",
+                                "class": "enderman"
+                            },
+                            {
+                                "id": "minecraft:slime",
+                                "name": "Slime",
+                                "image": "slime.png",
+                                "class": "slime"
+                            },
+                            {
+                                "id": "minecraft:magma_cube",
+                                "name": "Magma Cube",
+                                "image": "magma_cube.png",
+                                "class": "magma_cube"
+                            },
+                            {
+                                "id": "minecraft:ghast",
+                                "name": "Ghast",
+                                "image": "ghast.png",
+                                "class": "ghast"
+                            },
+                            {
+                                "id": "minecraft:blaze",
+                                "name": "Blaze",
+                                "image": "blaze.png",
+                                "class": "blaze"
+                            },
+                            {
+                                "id": "minecraft:wither_skeleton",
+                                "name": "Wither Skeleton",
+                                "image": "wither_skeleton.png",
+                                "class": "wither_skeleton"
+                            },
+                            {
+                                "id": "minecraft:piglin",
+                                "name": "Piglin",
+                                "image": "piglin.png",
+                                "class": "piglin"
+                            },
+                            {
+                                "id": "minecraft:zombified_piglin",
+                                "name": "Zombified Piglin",
+                                "image": "zombified_piglin.png",
+                                "class": "zombified_piglin"
+                            },
+                            {
+                                "id": "minecraft:hoglin",
+                                "name": "Hoglin",
+                                "image": "hoglin.png",
+                                "class": "hoglin"
+                            },
+                            {
+                                "id": "minecraft:zoglin",
+                                "name": "Zoglin",
+                                "image": "zoglin.png",
+                                "class": "zoglin"
+                            },
+                            {
+                                "id": "minecraft:silverfish",
+                                "name": "Silverfish",
+                                "image": "silverfish.png",
+                                "class": "silverfish"
+                            },
+                            {
+                                "id": "minecraft:ender_dragon",
+                                "name": "Ender Dragon",
+                                "image": "ender_dragon.png",
+                                "class": "ender_dragon"
+                            },
+                            {
+                                "id": "minecraft:endermite",
+                                "name": "Endermite",
+                                "image": "endermite.png",
+                                "class": "endermite"
+                            },
+                            {
+                                "id": "minecraft:shulker",
+                                "name": "Shulker",
+                                "image": "shulker.png",
+                                "class": "shulker"
+                            },
+                            {
+                                "id": "minecraft:wither",
+                                "name": "Wither",
+                                "image": "wither.png",
+                                "class": "wither"
+                            },
+                            {
+                                "id": "minecraft:phantom",
+                                "name": "Phantom",
+                                "image": "phantom.png",
+                                "class": "phantom"
+                            },
+                            {
+                                "id": "minecraft:guardian",
+                                "name": "Gaurdian",
+                                "image": "guardian.png",
+                                "class": "guardian"
+                            },
+                            {
+                                "id": "minecraft:elder_guardian",
+                                "name": "Elder Gaurdian",
+                                "image": "elder_guardian.png",
+                                "class": "elder_guardian"
+                            },
+                            {
+                                "id": "minecraft:zombie_villager",
+                                "name": "Zombie Villager",
+                                "image": "zombie_villager.png",
+                                "class": "zombie_villager"
+                            },
+                            {
+                                "id": "minecraft:witch",
+                                "name": "Witch",
+                                "image": "witch.png",
+                                "class": "witch"
+                            },
+                            {
+                                "id": "minecraft:pillager",
+                                "name": "Pillager",
+                                "image": "pillager.png",
+                                "class": "pillager"
+                            },
+                            {
+                                "id": "minecraft:vindicator",
+                                "name": "Vindicator",
+                                "image": "vindicator.png",
+                                "class": "vindicator"
+                            },
+                            {
+                                "id": "minecraft:evoker",
+                                "name": "Evoker",
+                                "image": "evoker.png",
+                                "class": "evoker"
+                            },
+                            {
+                                "id": "minecraft:vex",
+                                "name": "Vex",
+                                "image": "vex.png",
+                                "class": "vex"
+                            },
+                            {
+                                "id": "minecraft:ravager",
+                                "name": "Ravager",
+                                "image": "ravager.png",
+                                "class": "ravager"
+                            }
+                        ]
+                    },
+                    "description": "Kill one of every hostile monster",
+                    "explanation": "Kill one of all 33 hostile monsters listed"
+                },
+                {
+                    "id": "minecraft:nether/explore_nether",
+                    "name": "Hot Tourist Destinations",
+                    "short_name": "Hot Tourist",
+                    "type": "challenge",
+                    "class": "bg-netherite_boots",
+                    "criteria": {
+                        "goal": "Visited",
+                        "imageBase": "../img/biomes/",
+                        "criterion": [
+                            {
+                                "id": "minecraft:nether_wastes",
+                                "name": "Nether Wastes",
+                                "image": "nether_wastes.png",
+                                "class": "nether_wastes"
+                            },
+                            {
+                                "id": "minecraft:crimson_forest",
+                                "name": "Crimson Forest",
+                                "image": "crimson_forest.png",
+                                "class": "crimson_forest"
+                            },
+                            {
+                                "id": "minecraft:warped_forest",
+                                "name": "Warped Forest",
+                                "image": "warped_forest.png",
+                                "class": "warped_forest"
+                            },
+                            {
+                                "id": "minecraft:basalt_deltas",
+                                "name": "Basalt Deltas",
+                                "image": "basalt_deltas.png",
+                                "class": "basalt_deltas"
+                            },
+                            {
+                                "id": "minecraft:soul_sand_valley",
+                                "name": "Soul Sand Valley",
+                                "image": "soul_sand_valley.png",
+                                "class": "soul_sand_valley"
+                            }
+                        ]
+                    },
+                    "description": "Explore all nether biomes",
+                    "explanation": "Visit all five nether biomes"
+                },
+                {
+                    "id": "minecraft:husbandry/bred_all_animals",
+                    "name": "Two by Two",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-golden_carrot",
+                    "criteria": {
+                        "goal": "Animals Bred",
+                        "imageBase": "../img/animals/",
+                        "criterion": [
+                            {
+                                "id": "minecraft:pig",
+                                "name": "Pig",
+                                "image": "pig.png",
+                                "class": "pig"
+                            },
+                            {
+                                "id": "minecraft:sheep",
+                                "name": "Sheep",
+                                "image": "sheep.png",
+                                "class": "sheep"
+                            },
+                            {
+                                "id": "minecraft:chicken",
+                                "name": "Chicken",
+                                "image": "chicken.png",
+                                "class": "chicken"
+                            },
+                            {
+                                "id": "minecraft:cow",
+                                "name": "Cow",
+                                "image": "cow.png",
+                                "class": "cow"
+                            },
+                            {
+                                "id": "minecraft:mooshroom",
+                                "name": "Mooshroom",
+                                "image": "mooshroom.png",
+                                "class": "mooshroom"
+                            },
+                            {
+                                "id": "minecraft:cat",
+                                "name": "Cat",
+                                "image": "cat.png",
+                                "class": "cat"
+                            },
+                            {
+                                "id": "minecraft:ocelot",
+                                "name": "Ocelot",
+                                "image": "ocelot.png",
+                                "class": "ocelot"
+                            },
+                            {
+                                "id": "minecraft:wolf",
+                                "name": "Wolf",
+                                "image": "wolf.png",
+                                "class": "wolf"
+                            },
+                            {
+                                "id": "minecraft:fox",
+                                "name": "Fox",
+                                "image": "fox.png",
+                                "class": "fox"
+                            },
+                            {
+                                "id": "minecraft:rabbit",
+                                "name": "Rabbit",
+                                "image": "rabbit.png",
+                                "class": "rabbit"
+                            },
+                            {
+                                "id": "minecraft:bee",
+                                "name": "Bee",
+                                "image": "bee.png",
+                                "class": "bee"
+                            },
+                            {
+                                "id": "minecraft:horse",
+                                "name": "Horse",
+                                "image": "horse.png",
+                                "class": "horse"
+                            },
+                            {
+                                "id": "minecraft:donkey",
+                                "name": "Donkey",
+                                "image": "donkey.png",
+                                "class": "donkey"
+                            },
+                            {
+                                "id": "minecraft:mule",
+                                "name": "Mule",
+                                "image": "mule.png",
+                                "class": "mule"
+                            },
+                            {
+                                "id": "minecraft:llama",
+                                "name": "Llama",
+                                "image": "llama.png",
+                                "class": "llama"
+                            },
+                            {
+                                "id": "minecraft:panda",
+                                "name": "Panda",
+                                "image": "panda.png",
+                                "class": "panda"
+                            },
+                            {
+                                "id": "minecraft:turtle",
+                                "name": "Turtle",
+                                "image": "turtle.png",
+                                "class": "turtle"
+                            },
+                            {
+                                "id": "minecraft:strider",
+                                "name": "Strider",
+                                "image": "strider.png",
+                                "class": "strider"
+                            },
+                            {
+                                "id": "minecraft:hoglin",
+                                "name": "Hoglin",
+                                "image": "hoglin.png",
+                                "class": "hoglin"
+                            }
+                        ]
+                    },
+                    "description": "Breed all the animals!",
+                    "explanation": "Breed all 19 animals"
+                },
+                {
+                    "id": "minecraft:husbandry/balanced_diet",
+                    "name": "A Balanced Diet",
+                    "short_name": "ABD",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-apple",
+                    "criteria": {
+                        "goal": "Foods Eaten",
+                        "imageBase": "../img/food/",
+                        "criterion": [
+                            {
+                                "id": "bread",
+                                "name": "Bread",
+                                "image": "bread.png",
+                                "class": "bread"
+                            },
+                            {
+                                "id": "cooked_porkchop",
+                                "name": "Porkchop",
+                                "image": "cooked_porkchop.png",
+                                "class": "cooked_porkchop"
+                            },
+                            {
+                                "id": "porkchop",
+                                "name": "Raw Porkchop",
+                                "image": "porkchop.png",
+                                "class": "porkchop"
+                            },
+                            {
+                                "id": "cooked_beef",
+                                "name": "Beef",
+                                "image": "cooked_beef.png",
+                                "class": "cooked_beef"
+                            },
+                            {
+                                "id": "beef",
+                                "name": "Raw Beef",
+                                "image": "beef.png",
+                                "class": "beef"
+                            },
+                            {
+                                "id": "cooked_chicken",
+                                "name": "Chicken",
+                                "image": "cooked_chicken.png",
+                                "class": "cooked_chicken"
+                            },
+                            {
+                                "id": "chicken",
+                                "name": "Raw Chicken",
+                                "image": "raw_chicken.png",
+                                "class": "chicken"
+                            },
+                            {
+                                "id": "cooked_mutton",
+                                "name": "Mutton",
+                                "image": "cooked_mutton.png",
+                                "class": "cooked_mutton"
+                            },
+                            {
+                                "id": "mutton",
+                                "name": "Raw Mutton",
+                                "image": "mutton.png",
+                                "class": "mutton"
+                            },
+                            {
+                                "id": "cooked_rabbit",
+                                "name": "Rabbit",
+                                "image": "cooked_rabbit.png",
+                                "class": "cooked_rabbit"
+                            },
+                            {
+                                "id": "rabbit",
+                                "name": "Raw Rabbit",
+                                "image": "raw_rabbit.png",
+                                "class": "rabbit"
+                            },
+                            {
+                                "id": "cooked_cod",
+                                "name": "Cod",
+                                "image": "cooked_cod.png",
+                                "class": "cooked_cod"
+                            },
+                            {
+                                "id": "cod",
+                                "name": "Raw Cod",
+                                "image": "cod.png",
+                                "class": "cod"
+                            },
+                            {
+                                "id": "tropical_fish",
+                                "name": "Tropical Fish",
+                                "image": "tropical_fish.png",
+                                "class": "tropical_fish"
+                            },
+                            {
+                                "id": "cooked_salmon",
+                                "name": "Salmon",
+                                "image": "cooked_salmon.png",
+                                "class": "cooked_salmon"
+                            },
+                            {
+                                "id": "salmon",
+                                "name": "Raw Salmon",
+                                "image": "salmon.png",
+                                "class": "salmon"
+                            },
+                            {
+                                "id": "pufferfish",
+                                "name": "Pufferfish",
+                                "image": "pufferfish.png",
+                                "class": "pufferfish"
+                            },
+                            {
+                                "id": "cookie",
+                                "name": "Cookie",
+                                "image": "cookie.png",
+                                "class": "cookie"
+                            },
+                            {
+                                "id": "pumpkin_pie",
+                                "name": "Pumpkin Pie",
+                                "image": "pumpkin_pie.png",
+                                "class": "pumpkin_pie"
+                            },
+                            {
+                                "id": "apple",
+                                "name": "Apple",
+                                "image": "apple.png",
+                                "class": "apple"
+                            },
+                            {
+                                "id": "golden_apple",
+                                "name": "Golden Apple",
+                                "image": "golden_apple.png",
+                                "class": "golden_apple"
+                            },
+                            {
+                                "id": "enchanted_golden_apple",
+                                "name": "God Apple",
+                                "image": "enchanted_golden_apple.png",
+                                "class": "enchanted_golden_apple"
+                            },
+                            {
+                                "id": "golden_carrot",
+                                "name": "Golden Carrot",
+                                "image": "golden_carrot.png",
+                                "class": "golden_carrot"
+                            },
+                            {
+                                "id": "carrot",
+                                "name": "Carrot",
+                                "image": "carrot.png",
+                                "class": "carrot"
+                            },
+                            {
+                                "id": "melon_slice",
+                                "name": "Melon",
+                                "image": "melon_slice.png",
+                                "class": "melon_slice"
+                            },
+                            {
+                                "id": "baked_potato",
+                                "name": "Baked Potato",
+                                "image": "baked_potato.png",
+                                "class": "baked_potato"
+                            },
+                            {
+                                "id": "potato",
+                                "name": "Potato",
+                                "image": "potato.png",
+                                "class": "potato"
+                            },
+                            {
+                                "id": "poisonous_potato",
+                                "name": "Poison Potato",
+                                "image": "poisonous_potato.png",
+                                "class": "poisonous_potato"
+                            },
+                            {
+                                "id": "beetroot",
+                                "name": "Beetroot",
+                                "image": "beetroot.png",
+                                "class": "beetroot"
+                            },
+                            {
+                                "id": "sweet_berries",
+                                "name": "Sweet Berries",
+                                "image": "sweet_berries.png",
+                                "class": "sweet_berries"
+                            },
+                            {
+                                "id": "chorus_fruit",
+                                "name": "Chorus Fruit",
+                                "image": "chorus_fruit.png",
+                                "class": "chorus_fruit"
+                            },
+                            {
+                                "id": "mushroom_stew",
+                                "name": "Shroom Stew",
+                                "image": "mushroom_stew.png",
+                                "class": "mushroom_stew"
+                            },
+                            {
+                                "id": "suspicious_stew",
+                                "name": "Sus Stew",
+                                "image": "suspicious_stew.png",
+                                "class": "suspicious_stew"
+                            },
+                            {
+                                "id": "rabbit_stew",
+                                "name": "Rabbit Stew",
+                                "image": "rabbit_stew.png",
+                                "class": "rabbit_stew"
+                            },
+                            {
+                                "id": "beetroot_soup",
+                                "name": "Beet Soup",
+                                "image": "beetroot_soup.png",
+                                "class": "beetroot_soup"
+                            },
+                            {
+                                "id": "dried_kelp",
+                                "name": "Dried Kelp",
+                                "image": "dried_kelp.png",
+                                "class": "dried_kelp"
+                            },
+                            {
+                                "id": "honey_bottle",
+                                "name": "Honey",
+                                "image": "honey_bottle.png",
+                                "class": "honey_bottle"
+                            },
+                            {
+                                "id": "rotten_flesh",
+                                "name": "Rotten Flesh",
+                                "image": "rotten_flesh.png",
+                                "class": "rotten_flesh"
+                            },
+                            {
+                                "id": "spider_eye",
+                                "name": "Spider Eye",
+                                "image": "spider_eye.png",
+                                "class": "spider_eye"
+                            }
+                        ]
+                    },
+                    "description": "Eat everything that is edible, even if it's not good for you",
+                    "explanation": "Eat one of every food item in the game"
+                },
+                {
+                    "id": "minecraft:husbandry/complete_catalogue",
+                    "name": "A Complete Catalogue",
+                    "short_name": "Catalogue",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-cod",
+                    "criteria": {
+                        "goal": "Cats",
+                        "imageBase": "../img/cats/",
+                        "criterion": [
+                            {
+                                "id": "textures/entity/cat/jellie.png",
+                                "name": "Jellie",
+                                "image": "jellie.png",
+                                "class": "jellie"
+                            },
+                            {
+                                "id": "textures/entity/cat/calico.png",
+                                "name": "Calico",
+                                "image": "calico.png",
+                                "class": "calico"
+                            },
+                            {
+                                "id": "textures/entity/cat/red.png",
+                                "name": "Red",
+                                "image": "red.png",
+                                "class": "red"
+                            },
+                            {
+                                "id": "textures/entity/cat/black.png",
+                                "name": "Tuxedo",
+                                "image": "tuxedo.png",
+                                "class": "black"
+                            },
+                            {
+                                "id": "textures/entity/cat/white.png",
+                                "name": "White",
+                                "image": "white.png",
+                                "class": "white"
+                            },
+                            {
+                                "id": "textures/entity/cat/ragdoll.png",
+                                "name": "Ragdoll",
+                                "image": "ragdoll.png",
+                                "class": "ragdoll"
+                            },
+                            {
+                                "id": "textures/entity/cat/british_shorthair.png",
+                                "name": "British",
+                                "image": "british_shorthair.png",
+                                "class": "british_shorthair"
+                            },
+                            {
+                                "id": "textures/entity/cat/tabby.png",
+                                "name": "Tabby",
+                                "image": "tabby.png",
+                                "class": "tabby"
+                            },
+                            {
+                                "id": "textures/entity/cat/all_black.png",
+                                "name": "Black",
+                                "image": "black.png",
+                                "class": "all_black"
+                            },
+                            {
+                                "id": "textures/entity/cat/persian.png",
+                                "name": "Persian",
+                                "image": "persian.png",
+                                "class": "persian"
+                            },
+                            {
+                                "id": "textures/entity/cat/siamese.png",
+                                "name": "Siamese",
+                                "image": "siamese.png",
+                                "class": "siamese"
+                            }
+                        ]
+                    },
+                    "description": "Tame all cat variants!",
+                    "explanation": "Tame all cat variants"
+                }
+            ]
+        },
+        {
+            "name": "Minecraft",
+            "advancements": [
+                {
+                    "id": "minecraft:story/root",
+                    "name": "Minecraft",
+                    "class": "bg-grass_block",
+                    "description": "The heart and story of the game",
+                    "explanation": "Have a crafting table in your inventory"
+                },
+                {
+                    "id": "minecraft:story/mine_stone",
+                    "name": "Stone Age",
+                    "class": "bg-wooden_pickaxe",
+                    "description": "Mine stone with your new pickaxe",
+                    "explanation": "Have cobblestone or blackstone in your inventory"
+                },
+                {
+                    "id": "minecraft:story/upgrade_tools",
+                    "name": "Getting an Upgrade",
+                    "short_name": "Upgrade",
+                    "class": "bg-stone_pickaxe",
+                    "description": "Construct a better pickaxe",
+                    "explanation": "Have a stone pickaxe in your inventory"
+                },
+                {
+                    "id": "minecraft:story/iron_tools",
+                    "name": "Isn't It Iron Pick",
+                    "short_name": "Iron Pick",
+                    "class": "bg-iron_pickaxe",
+                    "description": "Upgrade your pickaxe",
+                    "explanation": "Have an iron pickaxe in your inventory"
+                },
+                {
+                    "id": "minecraft:story/smelt_iron",
+                    "name": "Acquire Hardware",
+                    "short_name": "Hardware",
+                    "class": "bg-iron_ingot",
+                    "description": "Smelt an iron ingot",
+                    "explanation": "Have an iron ingot in your inventory"
+                },
+                {
+                    "id": "minecraft:story/mine_diamond",
+                    "name": "Diamonds!",
+                    "class": "bg-diamond",
+                    "description": "Acquire diamonds",
+                    "explanation": "Have a diamond in your inventory"
+                },
+                {
+                    "id": "minecraft:story/lava_bucket",
+                    "name": "Hot Stuff",
+                    "class": "bg-lava_bucket",
+                    "description": "Fill a bucket with lava",
+                    "explanation": "Have a bucket of lava in your inventory"
+                },
+                {
+                    "id": "minecraft:story/form_obsidian",
+                    "name": "Ice Bucket Challenge",
+                    "short_name": "Ice Bucket",
+                    "class": "bg-obsidian",
+                    "description": "Obtain a block of obsidian",
+                    "explanation": "Have a block of obsidian in your inventory"
+                },
+                {
+                    "id": "minecraft:story/enter_the_nether",
+                    "name": "We Need to Go Deeper",
+                    "short_name": "Go Deeper",
+                    "class": "bg-flint_and_steel",
+                    "description": "Build, light and enter a nether portal",
+                    "explanation": "Enter the nether dimension"
+                },
+                {
+                    "id": "minecraft:story/obtain_armor",
+                    "name": "Suit Up",
+                    "class": "bg-iron_chestplate",
+                    "description": "Protect yourself with a piece of iron armor",
+                    "explanation": "Have a piece of iron armor in your inventory"
+                },
+                {
+                    "id": "minecraft:story/shiny_gear",
+                    "name": "Cover Me With Diamonds",
+                    "short_name": "W/Diamonds",
+                    "class": "bg-diamond_chestplate",
+                    "description": "Diamond armor saves lives",
+                    "explanation": "Have a piece of diamond armor in your inventory"
+                },
+                {
+                    "id": "minecraft:story/cure_zombie_villager",
+                    "name": "Zombie Doctor",
+                    "short_name": "Z Doctor",
+                    "type": "goal",
+                    "hidden": "compact",
+                    "half": "false",
+                    "class": "bg-golden_apple",
+                    "description": "Weaken and then cure a zombie villager",
+                    "explanation": "Cure a zombie villager by splashing it with a weakness potion and feeding it a golden apple"
+                },
+                {
+                    "id": "minecraft:story/deflect_arrow",
+                    "name": "Not Today, Thank You",
+                    "short_name": "Not Today",
+                    "class": "bg-shield",
+                    "description": "Block a projectile using your shield",
+                    "explanation": "Block a projectie with a shield"
+                },
+                {
+                    "id": "minecraft:story/follow_ender_eye",
+                    "name": "Eye Spy",
+                    "class": "bg-ender_eye",
+                    "description": "Follow an eye of ender",
+                    "explanation": "Enter a stronghold"
+                },
+                {
+                    "id": "minecraft:story/enter_the_end",
+                    "name": "The End?",
+                    "icon": "end",
+                    "class": "bg-end_stone",
+                    "description": "Enter the end portal",
+                    "explanation": "Enter the end dimension"
+                },
+                {
+                    "id": "minecraft:story/enchant_item",
+                    "name": "Enchanter",
+                    "half": "false",
+                    "class": "bg-enchanted_book",
+                    "description": "Enchant an item at an enchantment table",
+                    "explanation": "Enchant an item at an enchantment table"
+                }
+            ]
+        },
+        {
+            "name": "Nether",
+            "advancements": [
+                {
+                    "id": "minecraft:nether/root",
+                    "name": "Nether",
+                    "class": "bg-red_nether_bricks",
+                    "description": "Bring summer clothes",
+                    "explanation": "Enter the nether dimension"
+                },
+                {
+                    "id": "minecraft:nether/return_to_sender",
+                    "name": "Return to Sender",
+                    "short_name": "Sender",
+                    "type": "challenge",
+                    "class": "bg-fire_charge",
+                    "description": "Destroy a ghast with a fireball",
+                    "explanation": "Kill a ghast by deflecting a fireball back into it"
+                },
+                {
+                    "id": "minecraft:nether/use_lodestone",
+                    "name": "Country Lode, Take Me Home",
+                    "short_name": "Lode Home",
+                    "half": "false",
+                    "class": "bg-lodestone",
+                    "description": "Use a compass on a lodestone",
+                    "explanation": "Use a compass on a lodestone"
+                },
+                {
+                    "id": "minecraft:nether/charge_respawn_anchor",
+                    "name": "Not Quite \"Nine\" Lives",
+                    "short_name": "\"Nine\" Lives",
+                    "class": "bg-respawn_anchor",
+                    "description": "Charge a respawn anchor to the maximum",
+                    "explanation": "Fully charge a respawn anchor with four pieces of glowstone"
+                },
+                {
+                    "id": "minecraft:nether/obtain_crying_obsidian",
+                    "name": "Who's Cutting Onions?",
+                    "short_name": "Onions?",
+                    "class": "bg-crying_obsidian",
+                    "description": "Obtain crying obsidian",
+                    "explanation": "Have a block of crying obsidian in your inventory"
+                },
+                {
+                    "id": "minecraft:nether/loot_bastion",
+                    "name": "War Pigs",
+                    "class": "bg-chest",
+                    "description": "Loot a chest in a bastion remnant",
+                    "explanation": "Open a naturally generated, never-before-opened chest in a bastion"
+                },
+                {
+                    "id": "minecraft:nether/find_bastion",
+                    "name": "Those Were the Days",
+                    "short_name": "The Days",
+                    "class": "bg-polished_blackstone_bricks",
+                    "description": "Enter a bastion remnant",
+                    "explanation": "Enter a bastion"
+                },
+                {
+                    "id": "minecraft:nether/find_fortress",
+                    "name": "A Terrible Fortress",
+                    "short_name": "Fortress",
+                    "class": "bg-nether_bricks",
+                    "description": "Break your way into a nether fortress",
+                    "explanation": "Enter a nether fortress"
+                },
+                {
+                    "id": "minecraft:nether/uneasy_alliance",
+                    "name": "Uneasy Alliance",
+                    "short_name": "Uneasy",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-ghast_tear",
+                    "description": "Rescue a ghast from the nether, bring it safely home to the overworld... and then kill it",
+                    "explanation": "Kill a ghast while the player is in the overworld"
+                },
+                {
+                    "id": "minecraft:nether/fast_travel",
+                    "name": "Subspace Bubble",
+                    "short_name": "Subspace",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-map",
+                    "description": "Use the nether to travel 7km in the overworld",
+                    "explanation": "Enter the nether, travel 875 blocks from your starting position, and then exit the nether to the overworld"
+                },
+                {
+                    "id": "minecraft:nether/brew_potion",
+                    "name": "Local Brewery",
+                    "short_name": "Brewery",
+                    "class": "bg-potion",
+                    "description": "Brew a potion",
+                    "explanation": "Remove a potion, water bottle or empty glass bottle from a brewing stand"
+                },
+                {
+                    "id": "minecraft:nether/obtain_blaze_rod",
+                    "name": "Into Fire",
+                    "class": "bg-blaze_rod",
+                    "description": "Relieve a blaze of its rod",
+                    "explanation": "Have a blaze rod in your inventory"
+                },
+                {
+                    "id": "minecraft:nether/distract_piglin",
+                    "name": "Oh Shiny",
+                    "class": "bg-gold_ingot",
+                    "description": "Distract piglings with gold",
+                    "explanation": "Distract a piglin with gold while not wearing any gold armor"
+                },
+                {
+                    "id": "minecraft:nether/obtain_ancient_debris",
+                    "name": "Hidden in the Depths",
+                    "short_name": "The Depths",
+                    "class": "bg-ancient_debris",
+                    "description": "Obtain ancient debris",
+                    "explanation": "Have an ancient debris in your inventory"
+                },
+                {
+                    "id": "minecraft:nether/netherite_armor",
+                    "name": "Cover Me in Debris",
+                    "short_name": "In Debris",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-netherite_chestplate",
+                    "description": "Get a full suit of netherite armor",
+                    "explanation": "Have a full set of netherite armor in your inventory"
+                },
+                {
+                    "id": "minecraft:nether/all_effects",
+                    "name": "How Did We Get Here?",
+                    "short_name": "HDWGH?",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-bucket",
+                    "description": "Have every effect applied at the same time",
+                    "explanation": "Have every effect applied at the same time"
+                },
+                {
+                    "id": "minecraft:nether/all_potions",
+                    "name": "A Furious Cocktail",
+                    "short_name": "Cocktail",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-milk_bucket",
+                    "description": "Have every potion effect applied at the same time",
+                    "explanation": "Have every potion effect applied at the same time"
+                },
+                {
+                    "id": "minecraft:nether/create_full_beacon",
+                    "name": "Beaconator",
+                    "short_name": "Beaconator",
+                    "icon": "beacon",
+                    "type": "goal",
+                    "half": "false",
+                    "class": "bg-beacon",
+                    "description": "Bring a beacon to full power",
+                    "explanation": "Build and power a 4-tier pyramid beacon"
+                },
+                {
+                    "id": "minecraft:nether/create_beacon",
+                    "name": "Bring Home the Beacon",
+                    "short_name": "Beacon",
+                    "icon": "beacon",
+                    "half": "false",
+                    "class": "bg-beacon",
+                    "description": "Construct and place a beacon",
+                    "explanation": "Build and power a beacon"
+                },
+                {
+                    "id": "minecraft:nether/summon_wither",
+                    "name": "Withering Heights",
+                    "short_name": "Withering",
+                    "half": "false",
+                    "class": "bg-nether_star",
+                    "description": "Summon the wither",
+                    "explanation": "Summon the wither"
+                },
+                {
+                    "id": "minecraft:nether/get_wither_skull",
+                    "name": "Spooky Scary Skeleton",
+                    "short_name": "Spooky",
+                    "half": "false",
+                    "class": "bg-wither_skeleton_skull",
+                    "description": "Obtain a wither skeleton's skull",
+                    "explanation": "Have a wither skeleton skull in your inventory"
+                },
+                {
+                    "id": "minecraft:nether/ride_strider",
+                    "name": "This Boat Has Legs",
+                    "short_name": "This Boat",
+                    "half": "false",
+                    "class": "bg-warped_fungus_on_a_stick",
+                    "description": "Ride a strider with a warped fungus on a stick",
+                    "explanation": "Use a fungus on a stick to get a speed boost while riding a strider"
+                }
+            ]
+        },
+        {
+            "name": "End",
+            "advancements": [
+                {
+                    "id": "minecraft:end/root",
+                    "name": "The End",
+                    "class": "bg-end_stone",
+                    "description": "Or the beginning?",
+                    "explanation": "Enter the End dimension."
+                },
+                {
+                    "id": "minecraft:end/kill_dragon",
+                    "name": "Free the End",
+                    "short_name": "Free End",
+                    "class": "bg-dragon_head",
+                    "description": "Good luck",
+                    "explanation": "Kill the ender dragon."
+                },
+                {
+                    "id": "minecraft:end/dragon_egg",
+                    "name": "The Next Generation",
+                    "short_name": "Next Gen",
+                    "type": "goal",
+                    "class": "bg-dragon_egg",
+                    "description": "Hold the Dragon Egg",
+                    "explanation": "Have the dragon egg in your inventory."
+                },
+                {
+                    "id": "minecraft:end/enter_end_gateway",
+                    "name": "Remote Getaway",
+                    "short_name": "Getaway",
+                    "class": "bg-ender_pearl",
+                    "description": "Escape the island",
+                    "explanation": "Enter an end gateway and travel to the outer end."
+                },
+                {
+                    "id": "minecraft:end/find_end_city",
+                    "name": "City at the End of the Game",
+                    "short_name": "End City",
+                    "half": "false",
+                    "class": "bg-purpur_block",
+                    "description": "Go on in, what could happen?",
+                    "explanation": "Enter an end city."
+                },
+                {
+                    "id": "minecraft:end/dragon_breath",
+                    "name": "You Need a Mint",
+                    "short_name": "Need a Mint",
+                    "type": "goal",
+                    "class": "bg-lingering_potion",
+                    "description": "Collect dragon's breath in a glass bottle",
+                    "explanation": "Have a bottle of dragon's breath in your inventory."
+                },
+                {
+                    "id": "minecraft:end/respawn_dragon",
+                    "name": "The End... Again...",
+                    "short_name": "Again...",
+                    "type": "goal",
+                    "half": "false",
+                    "class": "bg-end_crystal",
+                    "description": "Respawn the Ender Dragon",
+                    "explanation": "Respawn the Ender Dragon by placing four end crystals on the end fountain"
+                },
+                {
+                    "id": "minecraft:end/elytra",
+                    "name": "Sky's the Limit",
+                    "short_name": "The Limit",
+                    "type": "goal",
+                    "half": "false",
+                    "class": "bg-elytra",
+                    "description": "Find elytra",
+                    "explanation": "Have an elytra in your inventory"
+                },
+                {
+                    "id": "minecraft:end/levitate",
+                    "name": "Great View From Here",
+                    "short_name": "Great View",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-shulker_shell",
+                    "description": "Levitate up 50 blocks from the attacks of a Shulker",
+                    "explanation": "Move a total of 50 blocks vertically while you have the levitation status effect"
+                }
+            ]
+        },
+        {
+            "name": "Husbandry",
+            "advancements": [
+                {
+                    "id": "minecraft:husbandry/root",
+                    "name": "Husbandry",
+                    "class": "bg-hay_block",
+                    "description": "The world is full of friends and food",
+                    "explanation": "Consume any food item that can be consumed."
+                },
+                {
+                    "id": "minecraft:husbandry/plant_seed",
+                    "name": "A Seedy Place",
+                    "short_name": "Seedy Place",
+                    "class": "bg-wheat_seeds",
+                    "description": "Plant a seed and watch it grow",
+                    "explanation": "Plant a seed"
+                },
+                {
+                    "id": "minecraft:husbandry/breed_an_animal",
+                    "name": "The Parrots and the Bats",
+                    "short_name": "Parrots",
+                    "class": "bg-wheat",
+                    "description": "Breed two animals together",
+                    "explanation": "Breed two animals together"
+                },
+                {
+                    "id": "minecraft:husbandry/tame_an_animal",
+                    "name": "Best Friends Forever",
+                    "short_name": "BFF's",
+                    "class": "bg-lead",
+                    "description": "Tame an animal",
+                    "explanation": "Tame an animal"
+                },
+                {
+                    "id": "minecraft:husbandry/fishy_business",
+                    "name": "Fishy Business",
+                    "short_name": "Fishy Biz",
+                    "class": "bg-fishing_rod",
+                    "description": "Catch a fish",
+                    "explanation": "Pull a fish item with a fishing rod."
+                },
+                {
+                    "id": "minecraft:husbandry/tactical_fishing",
+                    "name": "Tactical Fishing",
+                    "short_name": "Tactical",
+                    "class": "bg-cod_bucket",
+                    "description": "Catch a fish... without a fishing rod!",
+                    "explanation": "Use a water bucket to catch a fish."
+                },
+                {
+                    "id": "minecraft:husbandry/silk_touch_nest",
+                    "name": "Total Beelocation",
+                    "short_name": "Beelocation",
+                    "half": "false",
+                    "class": "bg-bee_nest",
+                    "description": "Move a bee nest, with 3 bees inside, using silk touch",
+                    "explanation": "Break a beehive with 3 bees inside using a tool enchanted with silk touch."
+                },
+                {
+                    "id": "minecraft:husbandry/safely_harvest_honey",
+                    "name": "Bee Our Guest",
+                    "short_name": "Our Guest",
+                    "half": "false",
+                    "class": "bg-honey_bottle",
+                    "description": "Use a campfire to collect honey from a beehive using a bottle without aggravating the bees",
+                    "explanation": "Use a glass bottle to collect honey from a beehive without angering the bees."
+                },
+                {
+                    "id": "minecraft:husbandry/obtain_netherite_hoe",
+                    "name": "Serious Dedication",
+                    "short_name": "Dedication",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-netherite_hoe",
+                    "description": "Use a netherite ingot to upgrade a hoe, and then reevaluate your life choices",
+                    "explanation": "Have a netherite hoe in your inventory"
+                }
+            ]
+        },
+        {
+            "name": "Adventure",
+            "advancements": [
+                {
+                    "id": "minecraft:adventure/root",
+                    "name": "Adventure",
+                    "class": "bg-map",
+                    "description": "Adventure, exploration, and combat",
+                    "explanation": "Kill or be killed by any entity"
+                },
+                {
+                    "id": "minecraft:adventure/kill_a_mob",
+                    "name": "Monster Hunter",
+                    "short_name": "Hunter",
+                    "class": "bg-iron_sword",
+                    "description": "Kill any hostile monster",
+                    "explanation": "Kill any hostile monster"
+                },
+                {
+                    "id": "minecraft:adventure/ol_betsy",
+                    "name": "Ol' Betsy",
+                    "class": "bg-crossbow",
+                    "description": "Shoot a crossbow",
+                    "explanation": "Shoot a crossbow"
+                },
+                {
+                    "id": "minecraft:adventure/whos_the_pillager_now",
+                    "name": "Who's the Pillager Now?",
+                    "short_name": "The Pillager",
+                    "half": "false",
+                    "class": "bg-crossbow",
+                    "description": "Give a pillager a taste of their own medicine",
+                    "explanation": "Kill a pillager with a crossbow"
+                },
+                {
+                    "id": "minecraft:adventure/sleep_in_bed",
+                    "name": "Sweet Dreams",
+                    "short_name": "Dreams",
+                    "class": "bg-red_bed",
+                    "description": "Sleep in a bed to change your respawn point",
+                    "explanation": "Lie down in a bed at night"
+                },
+                {
+                    "id": "minecraft:adventure/trade",
+                    "name": "What a Deal!",
+                    "class": "bg-emerald",
+                    "description": "Successfully trade with a Villager",
+                    "explanation": "Take an item from a villager or wandering trader's trading output slot, and put it in your inventory"
+                },
+                {
+                    "id": "minecraft:adventure/two_birds_one_arrow",
+                    "name": "Two Birds, One Arrow",
+                    "short_name": "Two Birds",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-crossbow",
+                    "description": "Kill two phantoms with a piercing arrow",
+                    "explanation": "Use a crossbow enchanted with piercing to kill two phantoms with a single arrow"
+                },
+                {
+                    "id": "minecraft:adventure/arbalistic",
+                    "name": "Arbalistic",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-crossbow",
+                    "description": "Kill five unique mobs with one crossbow shot",
+                    "explanation": "Use a crossbow enchanted with piercing IV to kill five unique mobs with a single arrow"
+                },
+                {
+                    "id": "minecraft:adventure/honey_block_slide",
+                    "name": "Sticky Situation",
+                    "short_name": "Sticky",
+                    "half": "false",
+                    "class": "bg-honey_block",
+                    "description": "Jump into a honey block to break your fall",
+                    "explanation": "Jump on a the side of a honey block when in air and slide down"
+                },
+                {
+                    "id": "minecraft:adventure/bullseye",
+                    "name": "Bullseye",
+                    "type": "challenge",
+                    "class": "bg-target",
+                    "description": "Hit the bullseye of a target block from at least 30 meters away",
+                    "explanation": "Hit the center of a target block with a projectile while 30 blocks away"
+                },
+                {
+                    "id": "minecraft:adventure/shoot_arrow",
+                    "name": "Take Aim",
+                    "class": "bg-bow",
+                    "description": "Shoot something with an arrow",
+                    "explanation": "Fire an arrow with a bow or crossbow"
+                },
+                {
+                    "id": "minecraft:adventure/sniper_duel",
+                    "name": "Sniper Duel",
+                    "type": "challenge",
+                    "class": "bg-arrow",
+                    "description": "Kill a skeleton from at least 50 meters away",
+                    "explanation": "Be at least 50 blocks away horizontally when a skeleton (not a stray) is killed by an arrow shot by the player"
+                },
+                {
+                    "id": "minecraft:adventure/voluntary_exile",
+                    "name": "Voluntary Exile",
+                    "short_name": "Exile",
+                    "icon": "pillager_banner",
+                    "half": "false",
+                    "class": "bg-pillager_banner",
+                    "description": "Kill a raid captain. Maybe consider staying away from villages for the time being...",
+                    "explanation": "Kill a pillager wearing an ominous banner and get the bad omen status effect."
+                },
+                {
+                    "id": "minecraft:adventure/hero_of_the_village",
+                    "name": "Hero of the Village",
+                    "short_name": "Hero",
+                    "icon": "pillager_banner",
+                    "type": "challenge",
+                    "half": "false",
+                    "class": "bg-pillager_banner",
+                    "description": "Successfully defend a village from a raid",
+                    "explanation": "Kill at least one raid mob while successfully defending a village from a raid"
+                },
+                {
+                    "id": "minecraft:adventure/throw_trident",
+                    "name": "A Throwaway Joke",
+                    "short_name": "ATJ",
+                    "half": "false",
+                    "class": "bg-trident",
+                    "description": "Throw a trident at something",
+                    "explanation": "Hit a mob with a thrown trident"
+                },
+                {
+                    "id": "minecraft:adventure/very_very_frightening",
+                    "name": "Very Very Frightening",
+                    "short_name": "VVF",
+                    "half": "false",
+                    "class": "bg-trident",
+                    "description": "Strike a villager with lightning",
+                    "explanation": "Hit a villager with lightning created by a trident with the channeling enchantment"
+                },
+                {
+                    "id": "minecraft:adventure/summon_iron_golem",
+                    "name": "Hired Help",
+                    "type": "goal",
+                    "half": "false",
+                    "class": "bg-jack_o_lantern",
+                    "description": "Summon an iron golem to help defend a village",
+                    "explanation": "Summon an iron golem"
+                },
+                {
+                    "id": "minecraft:adventure/totem_of_undying",
+                    "name": "Postmortal",
+                    "type": "goal",
+                    "half": "false",
+                    "class": "bg-totem_of_undying",
+                    "description": "Use a totem of undying to cheat death.",
+                    "explanation": "Activate a totem of undying by taking fatal damage while the totem is in your hand or offhand"
+                }
+            ]
+        }
+    ]
+}

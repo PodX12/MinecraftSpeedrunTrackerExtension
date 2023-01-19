@@ -1,0 +1,5855 @@
+.bg-acacia_boat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -10px;
+}
+
+.bg-acacia_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -10px;
+}
+
+.bg-acacia_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -78px;
+}
+
+.bg-acacia_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -78px;
+}
+
+.bg-acacia_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -10px;
+}
+
+.bg-acacia_leaves {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -78px;
+}
+
+.bg-acacia_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -146px;
+}
+
+.bg-acacia_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -146px;
+}
+
+.bg-acacia_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -146px;
+}
+
+.bg-acacia_sapling {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -10px;
+}
+
+.bg-acacia_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -78px;
+}
+
+.bg-acacia_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -146px;
+}
+
+.bg-acacia_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -214px;
+}
+
+.bg-acacia_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -214px;
+}
+
+.bg-acacia_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -214px;
+}
+
+.bg-activator_rail {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -214px;
+}
+
+.bg-air {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -10px;
+}
+
+.bg-allium {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -78px;
+}
+
+.bg-ancient_debris {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -146px;
+}
+
+.bg-andesite {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -214px;
+}
+
+.bg-andesite_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -282px;
+}
+
+.bg-andesite_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -282px;
+}
+
+.bg-andesite_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -282px;
+}
+
+.bg-anvil {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -282px;
+}
+
+.bg-apple {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -282px;
+}
+
+.bg-armor_stand {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -10px;
+}
+
+.bg-arrow {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -78px;
+}
+
+.bg-azure_bluet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -146px;
+}
+
+.bg-baked_potato {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -214px;
+}
+
+.bg-bamboo {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -282px;
+}
+
+.bg-barrel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -350px;
+}
+
+.bg-barrier {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -350px;
+}
+
+.bg-basalt {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -350px;
+}
+
+.bg-bat_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -350px;
+}
+
+.bg-bedrock {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -350px;
+}
+
+.bg-beacon {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -350px;
+}
+
+.bg-bee_nest {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -10px;
+}
+
+.bg-bee_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -78px;
+}
+
+.bg-beef {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -146px;
+}
+
+.bg-beehive {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -214px;
+}
+
+.bg-beetroot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -282px;
+}
+
+.bg-beetroot_seeds {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -350px;
+}
+
+.bg-beetroot_soup {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -418px;
+}
+
+.bg-bell {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -418px;
+}
+
+.bg-birch_boat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -418px;
+}
+
+.bg-birch_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -418px;
+}
+
+.bg-birch_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -418px;
+}
+
+.bg-birch_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -418px;
+}
+
+.bg-birch_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -418px;
+}
+
+.bg-birch_leaves {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -10px;
+}
+
+.bg-birch_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -78px;
+}
+
+.bg-birch_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -146px;
+}
+
+.bg-birch_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -214px;
+}
+
+.bg-birch_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -282px;
+}
+
+.bg-birch_sapling {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -350px;
+}
+
+.bg-birch_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -418px;
+}
+
+.bg-birch_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -486px;
+}
+
+.bg-birch_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -486px;
+}
+
+.bg-birch_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -486px;
+}
+
+.bg-black_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -486px;
+}
+
+.bg-black_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -486px;
+}
+
+.bg-black_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -486px;
+}
+
+.bg-black_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -486px;
+}
+
+.bg-black_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -486px;
+}
+
+.bg-black_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -10px;
+}
+
+.bg-black_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -78px;
+}
+
+.bg-black_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -146px;
+}
+
+.bg-black_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -214px;
+}
+
+.bg-black_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -282px;
+}
+
+.bg-black_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -350px;
+}
+
+.bg-black_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -418px;
+}
+
+.bg-blackstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -486px;
+}
+
+.bg-blackstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -554px;
+}
+
+.bg-blackstone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -554px;
+}
+
+.bg-blackstone_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -554px;
+}
+
+.bg-blast_furnace {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -554px;
+}
+
+.bg-blaze_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -554px;
+}
+
+.bg-blaze_rod {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -554px;
+}
+
+.bg-blaze_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -554px;
+}
+
+.bg-blue_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -554px;
+}
+
+.bg-blue_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -554px;
+}
+
+.bg-blue_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -10px;
+}
+
+.bg-blue_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -78px;
+}
+
+.bg-blue_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -146px;
+}
+
+.bg-blue_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -214px;
+}
+
+.bg-blue_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -282px;
+}
+
+.bg-blue_ice {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -350px;
+}
+
+.bg-blue_orchid {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -418px;
+}
+
+.bg-blue_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -486px;
+}
+
+.bg-blue_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -554px;
+}
+
+.bg-blue_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -622px;
+}
+
+.bg-blue_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -622px;
+}
+
+.bg-blue_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -622px;
+}
+
+.bg-bone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -622px;
+}
+
+.bg-bone_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -622px;
+}
+
+.bg-bone_meal {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -622px;
+}
+
+.bg-bookshelf {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -622px;
+}
+
+.bg-book {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -622px;
+}
+
+.bg-bow {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -622px;
+}
+
+.bg-bowl {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -622px;
+}
+
+.bg-brain_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -10px;
+}
+
+.bg-brain_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -78px;
+}
+
+.bg-brain_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -146px;
+}
+
+.bg-bread {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -214px;
+}
+
+.bg-brewing_stand {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -282px;
+}
+
+.bg-brick {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -350px;
+}
+
+.bg-brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -418px;
+}
+
+.bg-brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -486px;
+}
+
+.bg-brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -554px;
+}
+
+.bg-bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -622px;
+}
+
+.bg-brown_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -690px;
+}
+
+.bg-brown_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -690px;
+}
+
+.bg-brown_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -690px;
+}
+
+.bg-brown_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -690px;
+}
+
+.bg-brown_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -690px;
+}
+
+.bg-brown_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -690px;
+}
+
+.bg-brown_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -690px;
+}
+
+.bg-brown_mushroom {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -690px;
+}
+
+.bg-brown_mushroom_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -690px;
+}
+
+.bg-brown_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -690px;
+}
+
+.bg-brown_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -690px;
+}
+
+.bg-brown_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -10px;
+}
+
+.bg-brown_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -78px;
+}
+
+.bg-brown_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -146px;
+}
+
+.bg-bubble_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -214px;
+}
+
+.bg-bubble_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -282px;
+}
+
+.bg-bubble_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -350px;
+}
+
+.bg-bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -418px;
+}
+
+.bg-cactus {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -486px;
+}
+
+.bg-cake {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -554px;
+}
+
+.bg-campfire {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -622px;
+}
+
+.bg-carrot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -690px;
+}
+
+.bg-carrot_on_a_stick {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -758px;
+}
+
+.bg-cartography_table {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -758px;
+}
+
+.bg-carved_pumpkin {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -758px;
+}
+
+.bg-cat_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -758px;
+}
+
+.bg-cauldron {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -758px;
+}
+
+.bg-cave_spider_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -758px;
+}
+
+.bg-chain {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -758px;
+}
+
+.bg-chain_command_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -758px;
+}
+
+.bg-chainmail_boots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -758px;
+}
+
+.bg-chainmail_chestplate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -758px;
+}
+
+.bg-chainmail_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -758px;
+}
+
+.bg-chainmail_leggings {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -758px;
+}
+
+.bg-charcoal {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -10px;
+}
+
+.bg-chest {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -78px;
+}
+
+.bg-chest_minecart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -146px;
+}
+
+.bg-chicken {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -214px;
+}
+
+.bg-chicken_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -282px;
+}
+
+.bg-chipped_anvil {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -350px;
+}
+
+.bg-chiseled_nether_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -418px;
+}
+
+.bg-chiseled_polished_blackstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -486px;
+}
+
+.bg-chiseled_quartz_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -554px;
+}
+
+.bg-chiseled_red_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -622px;
+}
+
+.bg-chiseled_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -690px;
+}
+
+.bg-chiseled_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -758px;
+}
+
+.bg-chorus_flower {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -826px;
+}
+
+.bg-chorus_fruit {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -826px;
+}
+
+.bg-chorus_plant {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -826px;
+}
+
+.bg-clay {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -826px;
+}
+
+.bg-clay_ball {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -826px;
+}
+
+.bg-clock {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -826px;
+}
+
+.bg-coal {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -826px;
+}
+
+.bg-coal_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -826px;
+}
+
+.bg-coal_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -826px;
+}
+
+.bg-coarse_dirt {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -826px;
+}
+
+.bg-cobblestone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -826px;
+}
+
+.bg-cobblestone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -826px;
+}
+
+.bg-cobblestone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -826px;
+}
+
+.bg-cobblestone_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -10px;
+}
+
+.bg-cobweb {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -78px;
+}
+
+.bg-cocoa_beans {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -146px;
+}
+
+.bg-cod {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -214px;
+}
+
+.bg-cod_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -282px;
+}
+
+.bg-cod_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -350px;
+}
+
+.bg-command_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -418px;
+}
+
+.bg-command_block_minecart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -486px;
+}
+
+.bg-comparator {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -554px;
+}
+
+.bg-compass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -622px;
+}
+
+.bg-composter {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -690px;
+}
+
+.bg-conduit {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -758px;
+}
+
+.bg-cooked_beef {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -826px;
+}
+
+.bg-cooked_chicken {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -894px;
+}
+
+.bg-cooked_cod {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -894px;
+}
+
+.bg-cooked_mutton {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -894px;
+}
+
+.bg-cooked_porkchop {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -894px;
+}
+
+.bg-cooked_rabbit {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -894px;
+}
+
+.bg-cooked_salmon {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -894px;
+}
+
+.bg-cookie {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -894px;
+}
+
+.bg-cornflower {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -894px;
+}
+
+.bg-cow_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -894px;
+}
+
+.bg-cracked_nether_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -894px;
+}
+
+.bg-cracked_polished_blackstone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -894px;
+}
+
+.bg-cracked_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -894px;
+}
+
+.bg-crafting_table {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -894px;
+}
+
+.bg-creeper_banner_pattern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -894px;
+}
+
+.bg-creeper_head {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -10px;
+}
+
+.bg-creeper_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -78px;
+}
+
+.bg-crimson_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -146px;
+}
+
+.bg-crimson_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -214px;
+}
+
+.bg-crimson_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -282px;
+}
+
+.bg-crimson_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -350px;
+}
+
+.bg-crimson_fungus {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -418px;
+}
+
+.bg-crimson_hyphae {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -486px;
+}
+
+.bg-crimson_nylium {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -554px;
+}
+
+.bg-crimson_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -622px;
+}
+
+.bg-crimson_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -690px;
+}
+
+.bg-crimson_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -758px;
+}
+
+.bg-crimson_roots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -826px;
+}
+
+.bg-crimson_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -894px;
+}
+
+.bg-crimson_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -962px;
+}
+
+.bg-crimson_stem {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -962px;
+}
+
+.bg-crimson_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -962px;
+}
+
+.bg-crossbow {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -962px;
+}
+
+.bg-crying_obsidian {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -962px;
+}
+
+.bg-cut_red_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -962px;
+}
+
+.bg-cut_red_sandstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -962px;
+}
+
+.bg-cut_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -962px;
+}
+
+.bg-cut_sandstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -962px;
+}
+
+.bg-cyan_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -962px;
+}
+
+.bg-cyan_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -962px;
+}
+
+.bg-cyan_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -962px;
+}
+
+.bg-cyan_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -962px;
+}
+
+.bg-cyan_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -962px;
+}
+
+.bg-cyan_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -962px;
+}
+
+.bg-cyan_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -10px;
+}
+
+.bg-cyan_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -78px;
+}
+
+.bg-cyan_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -146px;
+}
+
+.bg-cyan_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -214px;
+}
+
+.bg-cyan_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -282px;
+}
+
+.bg-cyan_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -350px;
+}
+
+.bg-damaged_anvil {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -418px;
+}
+
+.bg-dandelion {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -486px;
+}
+
+.bg-dark_oak_boat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -554px;
+}
+
+.bg-dark_oak_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -622px;
+}
+
+.bg-dark_oak_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -690px;
+}
+
+.bg-dark_oak_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -758px;
+}
+
+.bg-dark_oak_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -826px;
+}
+
+.bg-dark_oak_leaves {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -894px;
+}
+
+.bg-dark_oak_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -962px;
+}
+
+.bg-dark_oak_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1030px;
+}
+
+.bg-dark_oak_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1030px;
+}
+
+.bg-dark_oak_sapling {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1030px;
+}
+
+.bg-dark_oak_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1030px;
+}
+
+.bg-dark_oak_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1030px;
+}
+
+.bg-dark_oak_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1030px;
+}
+
+.bg-dark_oak_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1030px;
+}
+
+.bg-dark_oak_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1030px;
+}
+
+.bg-dark_prismarine {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1030px;
+}
+
+.bg-dark_prismarine_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1030px;
+}
+
+.bg-dark_prismarine_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1030px;
+}
+
+.bg-daylight_detector {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1030px;
+}
+
+.bg-dead_brain_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1030px;
+}
+
+.bg-dead_brain_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1030px;
+}
+
+.bg-dead_brain_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1030px;
+}
+
+.bg-dead_bubble_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1030px;
+}
+
+.bg-dead_bubble_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -10px;
+}
+
+.bg-dead_bubble_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -78px;
+}
+
+.bg-dead_bush {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -146px;
+}
+
+.bg-dead_fire_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -214px;
+}
+
+.bg-dead_fire_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -282px;
+}
+
+.bg-dead_fire_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -350px;
+}
+
+.bg-dead_horn_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -418px;
+}
+
+.bg-dead_horn_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -486px;
+}
+
+.bg-dead_horn_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -554px;
+}
+
+.bg-dead_tube_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -622px;
+}
+
+.bg-dead_tube_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -690px;
+}
+
+.bg-dead_tube_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -758px;
+}
+
+.bg-debug_stick {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -826px;
+}
+
+.bg-detector_rail {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -894px;
+}
+
+.bg-diamond {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -962px;
+}
+
+.bg-diamond_axe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1030px;
+}
+
+.bg-diamond_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1098px;
+}
+
+.bg-diamond_boots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1098px;
+}
+
+.bg-diamond_chestplate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1098px;
+}
+
+.bg-diamond_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1098px;
+}
+
+.bg-diamond_hoe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1098px;
+}
+
+.bg-diamond_horse_armor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1098px;
+}
+
+.bg-diamond_leggings {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1098px;
+}
+
+.bg-diamond_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1098px;
+}
+
+.bg-diamond_pickaxe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1098px;
+}
+
+.bg-diamond_shovel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1098px;
+}
+
+.bg-diamond_sword {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1098px;
+}
+
+.bg-diorite {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1098px;
+}
+
+.bg-diorite_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1098px;
+}
+
+.bg-diorite_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1098px;
+}
+
+.bg-diorite_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1098px;
+}
+
+.bg-dirt {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1098px;
+}
+
+.bg-dispenser {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1098px;
+}
+
+.bg-dolphin_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -10px;
+}
+
+.bg-donkey_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -78px;
+}
+
+.bg-dragon_breath {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -146px;
+}
+
+.bg-dragon_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -214px;
+}
+
+.bg-dragon_head {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -282px;
+}
+
+.bg-dried_kelp {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -350px;
+}
+
+.bg-dried_kelp_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -418px;
+}
+
+.bg-dropper {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -486px;
+}
+
+.bg-drowned_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -554px;
+}
+
+.bg-egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -622px;
+}
+
+.bg-elder_guardian_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -690px;
+}
+
+.bg-elytra {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -758px;
+}
+
+.bg-emerald {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -826px;
+}
+
+.bg-emerald_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -894px;
+}
+
+.bg-emerald_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -962px;
+}
+
+.bg-enchanted_book {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1030px;
+}
+
+.bg-enchanted_golden_apple {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1098px;
+}
+
+.bg-enchanting_table {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1166px;
+}
+
+.bg-end_crystal {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1166px;
+}
+
+.bg-end_portal_frame {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1166px;
+}
+
+.bg-end_rod {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1166px;
+}
+
+.bg-end_stone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1166px;
+}
+
+.bg-end_stone_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1166px;
+}
+
+.bg-end_stone_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1166px;
+}
+
+.bg-end_stone_brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1166px;
+}
+
+.bg-end_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1166px;
+}
+
+.bg-ender_chest {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1166px;
+}
+
+.bg-ender_eye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1166px;
+}
+
+.bg-ender_pearl {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1166px;
+}
+
+.bg-enderman_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1166px;
+}
+
+.bg-endermite_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1166px;
+}
+
+.bg-evoker_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1166px;
+}
+
+.bg-experience_bottle {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1166px;
+}
+
+.bg-farmland {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1166px;
+}
+
+.bg-feather {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1166px;
+}
+
+.bg-fermented_spider_eye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -10px;
+}
+
+.bg-fern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -78px;
+}
+
+.bg-filled_map {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -146px;
+}
+
+.bg-fire_charge {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -214px;
+}
+
+.bg-fire_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -282px;
+}
+
+.bg-fire_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -350px;
+}
+
+.bg-fire_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -418px;
+}
+
+.bg-firework_rocket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -486px;
+}
+
+.bg-firework_star {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -554px;
+}
+
+.bg-fishing_rod {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -622px;
+}
+
+.bg-fletching_table {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -690px;
+}
+
+.bg-flint {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -758px;
+}
+
+.bg-flint_and_steel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -826px;
+}
+
+.bg-flower_banner_pattern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -894px;
+}
+
+.bg-flower_pot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -962px;
+}
+
+.bg-fox_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1030px;
+}
+
+.bg-furnace {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1098px;
+}
+
+.bg-furnace_minecart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1166px;
+}
+
+.bg-ghast_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1234px;
+}
+
+.bg-ghast_tear {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1234px;
+}
+
+.bg-gilded_blackstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1234px;
+}
+
+.bg-glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1234px;
+}
+
+.bg-glass_bottle {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1234px;
+}
+
+.bg-glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1234px;
+}
+
+.bg-glistering_melon_slice {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1234px;
+}
+
+.bg-globe_banner_pattern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1234px;
+}
+
+.bg-glowstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1234px;
+}
+
+.bg-glowstone_dust {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1234px;
+}
+
+.bg-gold_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1234px;
+}
+
+.bg-gold_ingot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1234px;
+}
+
+.bg-gold_nugget {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1234px;
+}
+
+.bg-gold_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1234px;
+}
+
+.bg-golden_apple {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1234px;
+}
+
+.bg-golden_axe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1234px;
+}
+
+.bg-golden_boots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1234px;
+}
+
+.bg-golden_carrot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1234px;
+}
+
+.bg-golden_chestplate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1234px;
+}
+
+.bg-golden_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -10px;
+}
+
+.bg-golden_hoe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -78px;
+}
+
+.bg-golden_horse_armor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -146px;
+}
+
+.bg-golden_leggings {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -214px;
+}
+
+.bg-golden_pickaxe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -282px;
+}
+
+.bg-golden_shovel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -350px;
+}
+
+.bg-golden_sword {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -418px;
+}
+
+.bg-granite {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -486px;
+}
+
+.bg-granite_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -554px;
+}
+
+.bg-granite_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -622px;
+}
+
+.bg-granite_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -690px;
+}
+
+.bg-grass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -758px;
+}
+
+.bg-grass_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -826px;
+}
+
+.bg-grass_path {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -894px;
+}
+
+.bg-gravel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -962px;
+}
+
+.bg-gray_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1030px;
+}
+
+.bg-gray_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1098px;
+}
+
+.bg-gray_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1166px;
+}
+
+.bg-gray_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1234px;
+}
+
+.bg-gray_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1302px;
+}
+
+.bg-gray_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1302px;
+}
+
+.bg-gray_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1302px;
+}
+
+.bg-gray_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1302px;
+}
+
+.bg-gray_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1302px;
+}
+
+.bg-gray_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1302px;
+}
+
+.bg-gray_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1302px;
+}
+
+.bg-gray_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1302px;
+}
+
+.bg-green_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1302px;
+}
+
+.bg-green_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1302px;
+}
+
+.bg-green_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1302px;
+}
+
+.bg-green_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1302px;
+}
+
+.bg-green_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1302px;
+}
+
+.bg-green_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1302px;
+}
+
+.bg-green_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1302px;
+}
+
+.bg-green_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1302px;
+}
+
+.bg-green_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1302px;
+}
+
+.bg-green_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1302px;
+}
+
+.bg-green_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1302px;
+}
+
+.bg-green_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1302px;
+}
+
+.bg-grindstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -10px;
+}
+
+.bg-guardian_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -78px;
+}
+
+.bg-gunpowder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -146px;
+}
+
+.bg-hay_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -214px;
+}
+
+.bg-heart_of_the_sea {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -282px;
+}
+
+.bg-heavy_weighted_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -350px;
+}
+
+.bg-hoglin_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -418px;
+}
+
+.bg-honey_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -486px;
+}
+
+.bg-honey_bottle {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -554px;
+}
+
+.bg-honeycomb {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -622px;
+}
+
+.bg-honeycomb_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -690px;
+}
+
+.bg-hopper {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -758px;
+}
+
+.bg-hopper_minecart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -826px;
+}
+
+.bg-horn_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -894px;
+}
+
+.bg-horn_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -962px;
+}
+
+.bg-horn_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1030px;
+}
+
+.bg-horse_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1098px;
+}
+
+.bg-husk_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1166px;
+}
+
+.bg-ice {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1234px;
+}
+
+.bg-infested_chiseled_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1302px;
+}
+
+.bg-infested_cobblestone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1370px;
+}
+
+.bg-infested_cracked_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1370px;
+}
+
+.bg-infested_mossy_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1370px;
+}
+
+.bg-infested_stone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1370px;
+}
+
+.bg-infested_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1370px;
+}
+
+.bg-ink_sac {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1370px;
+}
+
+.bg-iron_axe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1370px;
+}
+
+.bg-iron_bars {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1370px;
+}
+
+.bg-iron_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1370px;
+}
+
+.bg-iron_boots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1370px;
+}
+
+.bg-iron_chestplate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1370px;
+}
+
+.bg-iron_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1370px;
+}
+
+.bg-iron_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1370px;
+}
+
+.bg-iron_hoe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1370px;
+}
+
+.bg-iron_horse_armor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1370px;
+}
+
+.bg-iron_ingot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1370px;
+}
+
+.bg-iron_leggings {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1370px;
+}
+
+.bg-iron_nugget {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1370px;
+}
+
+.bg-iron_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1370px;
+}
+
+.bg-iron_pickaxe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1370px;
+}
+
+.bg-iron_shovel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1370px;
+}
+
+.bg-iron_sword {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -10px;
+}
+
+.bg-iron_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -78px;
+}
+
+.bg-jack_o_lantern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -146px;
+}
+
+.bg-item_frame {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -214px;
+}
+
+.bg-jigsaw {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -282px;
+}
+
+.bg-jukebox {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -350px;
+}
+
+.bg-jungle_boat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -418px;
+}
+
+.bg-jungle_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -486px;
+}
+
+.bg-jungle_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -554px;
+}
+
+.bg-jungle_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -622px;
+}
+
+.bg-jungle_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -690px;
+}
+
+.bg-jungle_leaves {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -758px;
+}
+
+.bg-jungle_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -826px;
+}
+
+.bg-jungle_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -894px;
+}
+
+.bg-jungle_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -962px;
+}
+
+.bg-jungle_sapling {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1030px;
+}
+
+.bg-jungle_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1098px;
+}
+
+.bg-jungle_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1166px;
+}
+
+.bg-jungle_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1234px;
+}
+
+.bg-jungle_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1302px;
+}
+
+.bg-jungle_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1370px;
+}
+
+.bg-kelp {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1438px;
+}
+
+.bg-knowledge_book {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1438px;
+}
+
+.bg-ladder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1438px;
+}
+
+.bg-lantern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1438px;
+}
+
+.bg-lapis_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1438px;
+}
+
+.bg-lapis_lazuli {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1438px;
+}
+
+.bg-lapis_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1438px;
+}
+
+.bg-large_fern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1438px;
+}
+
+.bg-lava_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1438px;
+}
+
+.bg-lead {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1438px;
+}
+
+.bg-leather {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1438px;
+}
+
+.bg-leather_boots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1438px;
+}
+
+.bg-leather_chestplate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1438px;
+}
+
+.bg-leather_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1438px;
+}
+
+.bg-leather_horse_armor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1438px;
+}
+
+.bg-leather_leggings {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1438px;
+}
+
+.bg-lectern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1438px;
+}
+
+.bg-lever {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1438px;
+}
+
+.bg-light_blue_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1438px;
+}
+
+.bg-light_blue_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1438px;
+}
+
+.bg-light_blue_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1438px;
+}
+
+.bg-light_blue_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1438px;
+}
+
+.bg-light_blue_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -10px;
+}
+
+.bg-light_blue_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -78px;
+}
+
+.bg-light_blue_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -146px;
+}
+
+.bg-light_blue_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -214px;
+}
+
+.bg-light_blue_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -282px;
+}
+
+.bg-light_blue_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -350px;
+}
+
+.bg-light_blue_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -418px;
+}
+
+.bg-light_blue_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -486px;
+}
+
+.bg-light_gray_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -554px;
+}
+
+.bg-light_gray_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -622px;
+}
+
+.bg-light_gray_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -690px;
+}
+
+.bg-light_gray_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -758px;
+}
+
+.bg-light_gray_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -826px;
+}
+
+.bg-light_gray_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -894px;
+}
+
+.bg-light_gray_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -962px;
+}
+
+.bg-light_gray_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1030px;
+}
+
+.bg-light_gray_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1098px;
+}
+
+.bg-light_gray_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1166px;
+}
+
+.bg-light_gray_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1234px;
+}
+
+.bg-light_gray_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1302px;
+}
+
+.bg-light_weighted_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1370px;
+}
+
+.bg-lilac {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1438px;
+}
+
+.bg-lily_of_the_valley {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1506px;
+}
+
+.bg-lily_pad {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1506px;
+}
+
+.bg-lime_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1506px;
+}
+
+.bg-lime_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1506px;
+}
+
+.bg-lime_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1506px;
+}
+
+.bg-lime_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1506px;
+}
+
+.bg-lime_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1506px;
+}
+
+.bg-lime_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1506px;
+}
+
+.bg-lime_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1506px;
+}
+
+.bg-lime_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1506px;
+}
+
+.bg-lime_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1506px;
+}
+
+.bg-lime_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1506px;
+}
+
+.bg-lime_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1506px;
+}
+
+.bg-lime_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1506px;
+}
+
+.bg-lingering_potion {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1506px;
+}
+
+.bg-llama_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1506px;
+}
+
+.bg-lodestone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1506px;
+}
+
+.bg-loom {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1506px;
+}
+
+.bg-magenta_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1506px;
+}
+
+.bg-magenta_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1506px;
+}
+
+.bg-magenta_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1506px;
+}
+
+.bg-magenta_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1506px;
+}
+
+.bg-magenta_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1506px;
+}
+
+.bg-magenta_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -10px;
+}
+
+.bg-magenta_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -78px;
+}
+
+.bg-magenta_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -146px;
+}
+
+.bg-magenta_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -214px;
+}
+
+.bg-magenta_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -282px;
+}
+
+.bg-magenta_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -350px;
+}
+
+.bg-magenta_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -418px;
+}
+
+.bg-magma_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -486px;
+}
+
+.bg-magma_cream {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -554px;
+}
+
+.bg-magma_cube_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -622px;
+}
+
+.bg-map {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -690px;
+}
+
+.bg-melon {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -758px;
+}
+
+.bg-melon_seeds {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -826px;
+}
+
+.bg-melon_slice {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -894px;
+}
+
+.bg-milk_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -962px;
+}
+
+.bg-minecart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1030px;
+}
+
+.bg-mojang_banner_pattern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1098px;
+}
+
+.bg-mooshroom_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1166px;
+}
+
+.bg-mossy_cobblestone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1234px;
+}
+
+.bg-mossy_cobblestone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1302px;
+}
+
+.bg-mossy_cobblestone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1370px;
+}
+
+.bg-mossy_cobblestone_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1438px;
+}
+
+.bg-mossy_stone_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1506px;
+}
+
+.bg-mossy_stone_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1574px;
+}
+
+.bg-mossy_stone_brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1574px;
+}
+
+.bg-mossy_stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1574px;
+}
+
+.bg-mule_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1574px;
+}
+
+.bg-mushroom_stem {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1574px;
+}
+
+.bg-mushroom_stew {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1574px;
+}
+
+.bg-music_disc_11 {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1574px;
+}
+
+.bg-music_disc_13 {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1574px;
+}
+
+.bg-music_disc_blocks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1574px;
+}
+
+.bg-music_disc_cat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1574px;
+}
+
+.bg-music_disc_chirp {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1574px;
+}
+
+.bg-music_disc_far {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1574px;
+}
+
+.bg-music_disc_mall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1574px;
+}
+
+.bg-music_disc_mellohi {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1574px;
+}
+
+.bg-music_disc_pigstep {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1574px;
+}
+
+.bg-music_disc_stal {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1574px;
+}
+
+.bg-music_disc_strad {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1574px;
+}
+
+.bg-music_disc_wait {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1574px;
+}
+
+.bg-music_disc_ward {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1574px;
+}
+
+.bg-mutton {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1574px;
+}
+
+.bg-mycelium {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1574px;
+}
+
+.bg-name_tag {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1574px;
+}
+
+.bg-nautilus_shell {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1574px;
+}
+
+.bg-nether_brick {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1574px;
+}
+
+.bg-nether_brick_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -10px;
+}
+
+.bg-nether_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -78px;
+}
+
+.bg-nether_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -146px;
+}
+
+.bg-nether_brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -214px;
+}
+
+.bg-nether_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -282px;
+}
+
+.bg-nether_gold_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -350px;
+}
+
+.bg-nether_quartz_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -418px;
+}
+
+.bg-nether_sprouts {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -486px;
+}
+
+.bg-nether_star {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -554px;
+}
+
+.bg-nether_wart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -622px;
+}
+
+.bg-nether_wart_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -690px;
+}
+
+.bg-netherite_axe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -758px;
+}
+
+.bg-netherite_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -826px;
+}
+
+.bg-netherite_boots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -894px;
+}
+
+.bg-netherite_chestplate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -962px;
+}
+
+.bg-netherite_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1030px;
+}
+
+.bg-netherite_hoe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1098px;
+}
+
+.bg-netherite_ingot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1166px;
+}
+
+.bg-netherite_leggings {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1234px;
+}
+
+.bg-netherite_pickaxe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1302px;
+}
+
+.bg-netherite_scrap {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1370px;
+}
+
+.bg-netherite_shovel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1438px;
+}
+
+.bg-netherite_sword {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1506px;
+}
+
+.bg-netherrack {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1574px;
+}
+
+.bg-note_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1642px;
+}
+
+.bg-oak_boat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1642px;
+}
+
+.bg-oak_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1642px;
+}
+
+.bg-oak_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1642px;
+}
+
+.bg-oak_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1642px;
+}
+
+.bg-oak_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1642px;
+}
+
+.bg-oak_leaves {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1642px;
+}
+
+.bg-oak_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1642px;
+}
+
+.bg-oak_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1642px;
+}
+
+.bg-oak_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1642px;
+}
+
+.bg-oak_sapling {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1642px;
+}
+
+.bg-oak_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1642px;
+}
+
+.bg-oak_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1642px;
+}
+
+.bg-oak_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1642px;
+}
+
+.bg-oak_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1642px;
+}
+
+.bg-oak_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1642px;
+}
+
+.bg-observer {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1642px;
+}
+
+.bg-obsidian {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1642px;
+}
+
+.bg-ocelot_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1642px;
+}
+
+.bg-orange_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1642px;
+}
+
+.bg-orange_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1642px;
+}
+
+.bg-orange_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1642px;
+}
+
+.bg-orange_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1642px;
+}
+
+.bg-orange_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1642px;
+}
+
+.bg-orange_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1642px;
+}
+
+.bg-orange_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -10px;
+}
+
+.bg-orange_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -78px;
+}
+
+.bg-orange_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -146px;
+}
+
+.bg-orange_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -214px;
+}
+
+.bg-orange_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -282px;
+}
+
+.bg-orange_tulip {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -350px;
+}
+
+.bg-orange_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -418px;
+}
+
+.bg-oxeye_daisy {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -486px;
+}
+
+.bg-packed_ice {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -554px;
+}
+
+.bg-painting {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -622px;
+}
+
+.bg-panda_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -690px;
+}
+
+.bg-paper {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -758px;
+}
+
+.bg-parrot_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -826px;
+}
+
+.bg-peony {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -894px;
+}
+
+.bg-petrified_oak_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -962px;
+}
+
+.bg-phantom_membrane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1030px;
+}
+
+.bg-phantom_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1098px;
+}
+
+.bg-pig_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1166px;
+}
+
+.bg-piglin_banner_pattern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1234px;
+}
+
+.bg-piglin_brute_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1302px;
+}
+
+.bg-piglin_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1370px;
+}
+
+.bg-pillager_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1438px;
+}
+
+.bg-pink_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1506px;
+}
+
+.bg-pink_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1574px;
+}
+
+.bg-pink_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1642px;
+}
+
+.bg-pink_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1710px;
+}
+
+.bg-pink_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1710px;
+}
+
+.bg-pink_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1710px;
+}
+
+.bg-pink_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1710px;
+}
+
+.bg-pink_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1710px;
+}
+
+.bg-pink_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1710px;
+}
+
+.bg-pink_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1710px;
+}
+
+.bg-pink_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1710px;
+}
+
+.bg-pink_tulip {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1710px;
+}
+
+.bg-pink_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1710px;
+}
+
+.bg-piston {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1710px;
+}
+
+.bg-player_head {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1710px;
+}
+
+.bg-podzol {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1710px;
+}
+
+.bg-poisonous_potato {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1710px;
+}
+
+.bg-polar_bear_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1710px;
+}
+
+.bg-polished_andesite {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1710px;
+}
+
+.bg-polished_andesite_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1710px;
+}
+
+.bg-polished_andesite_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1710px;
+}
+
+.bg-polished_basalt {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1710px;
+}
+
+.bg-polished_blackstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1710px;
+}
+
+.bg-polished_blackstone_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1710px;
+}
+
+.bg-polished_blackstone_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1710px;
+}
+
+.bg-polished_blackstone_brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1710px;
+}
+
+.bg-polished_blackstone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1710px;
+}
+
+.bg-polished_blackstone_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1710px;
+}
+
+.bg-polished_blackstone_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1710px;
+}
+
+.bg-polished_blackstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -10px;
+}
+
+.bg-polished_blackstone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -78px;
+}
+
+.bg-polished_blackstone_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -146px;
+}
+
+.bg-polished_diorite {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -214px;
+}
+
+.bg-polished_diorite_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -282px;
+}
+
+.bg-polished_diorite_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -350px;
+}
+
+.bg-polished_granite {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -418px;
+}
+
+.bg-polished_granite_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -486px;
+}
+
+.bg-polished_granite_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -554px;
+}
+
+.bg-popped_chorus_fruit {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -622px;
+}
+
+.bg-poppy {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -690px;
+}
+
+.bg-porkchop {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -758px;
+}
+
+.bg-potato {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -826px;
+}
+
+.bg-potion {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -894px;
+}
+
+.bg-powered_rail {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -962px;
+}
+
+.bg-prismarine {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1030px;
+}
+
+.bg-prismarine_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1098px;
+}
+
+.bg-prismarine_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1166px;
+}
+
+.bg-prismarine_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1234px;
+}
+
+.bg-prismarine_crystals {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1302px;
+}
+
+.bg-prismarine_shard {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1370px;
+}
+
+.bg-prismarine_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1438px;
+}
+
+.bg-prismarine_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1506px;
+}
+
+.bg-prismarine_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1574px;
+}
+
+.bg-pufferfish {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1642px;
+}
+
+.bg-pufferfish_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1710px;
+}
+
+.bg-pufferfish_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1778px;
+}
+
+.bg-pumpkin {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1778px;
+}
+
+.bg-pumpkin_pie {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1778px;
+}
+
+.bg-pumpkin_seeds {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1778px;
+}
+
+.bg-purple_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1778px;
+}
+
+.bg-purple_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1778px;
+}
+
+.bg-purple_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1778px;
+}
+
+.bg-purple_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1778px;
+}
+
+.bg-purple_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1778px;
+}
+
+.bg-purple_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1778px;
+}
+
+.bg-purple_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1778px;
+}
+
+.bg-purple_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1778px;
+}
+
+.bg-purple_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1778px;
+}
+
+.bg-purple_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1778px;
+}
+
+.bg-purple_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1778px;
+}
+
+.bg-purple_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1778px;
+}
+
+.bg-purpur_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1778px;
+}
+
+.bg-purpur_pillar {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1778px;
+}
+
+.bg-purpur_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1778px;
+}
+
+.bg-purpur_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1778px;
+}
+
+.bg-quartz {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1778px;
+}
+
+.bg-quartz_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1778px;
+}
+
+.bg-quartz_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1778px;
+}
+
+.bg-quartz_pillar {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1778px;
+}
+
+.bg-quartz_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1778px;
+}
+
+.bg-quartz_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1778px;
+}
+
+.bg-rabbit_foot {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1778px;
+}
+
+.bg-rabbit {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -10px;
+}
+
+.bg-rabbit_hide {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -78px;
+}
+
+.bg-rabbit_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -146px;
+}
+
+.bg-rabbit_stew {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -214px;
+}
+
+.bg-rail {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -282px;
+}
+
+.bg-ravager_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -350px;
+}
+
+.bg-red_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -418px;
+}
+
+.bg-red_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -486px;
+}
+
+.bg-red_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -554px;
+}
+
+.bg-red_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -622px;
+}
+
+.bg-red_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -690px;
+}
+
+.bg-red_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -758px;
+}
+
+.bg-red_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -826px;
+}
+
+.bg-red_mushroom {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -894px;
+}
+
+.bg-red_mushroom_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -962px;
+}
+
+.bg-red_nether_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1030px;
+}
+
+.bg-red_nether_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1098px;
+}
+
+.bg-red_nether_brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1166px;
+}
+
+.bg-red_nether_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1234px;
+}
+
+.bg-red_sand {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1302px;
+}
+
+.bg-red_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1370px;
+}
+
+.bg-red_sandstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1438px;
+}
+
+.bg-red_sandstone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1506px;
+}
+
+.bg-red_sandstone_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1574px;
+}
+
+.bg-red_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1642px;
+}
+
+.bg-red_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1710px;
+}
+
+.bg-red_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1778px;
+}
+
+.bg-red_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1846px;
+}
+
+.bg-red_tulip {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1846px;
+}
+
+.bg-red_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1846px;
+}
+
+.bg-redstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1846px;
+}
+
+.bg-redstone_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1846px;
+}
+
+.bg-redstone_lamp {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1846px;
+}
+
+.bg-redstone_ore {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1846px;
+}
+
+.bg-redstone_torch {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1846px;
+}
+
+.bg-repeater {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1846px;
+}
+
+.bg-repeating_command_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1846px;
+}
+
+.bg-respawn_anchor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1846px;
+}
+
+.bg-rose_bush {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1846px;
+}
+
+.bg-rotten_flesh {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1846px;
+}
+
+.bg-saddle {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1846px;
+}
+
+.bg-salmon {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1846px;
+}
+
+.bg-salmon_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1846px;
+}
+
+.bg-salmon_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1846px;
+}
+
+.bg-sand {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1846px;
+}
+
+.bg-sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1846px;
+}
+
+.bg-sandstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1846px;
+}
+
+.bg-sandstone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1846px;
+}
+
+.bg-sandstone_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1846px;
+}
+
+.bg-scaffolding {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1846px;
+}
+
+.bg-scute {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1846px;
+}
+
+.bg-sea_lantern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1846px;
+}
+
+.bg-sea_pickle {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1846px;
+}
+
+.bg-seagrass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1846px;
+}
+
+.bg-shears {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1846px;
+}
+
+.bg-sheep_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -10px;
+}
+
+.bg-shield {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -78px;
+}
+
+.bg-shroomlight {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -146px;
+}
+
+.bg-shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -214px;
+}
+
+.bg-shulker_shell {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -282px;
+}
+
+.bg-shulker_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -350px;
+}
+
+.bg-silverfish_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -418px;
+}
+
+.bg-skeleton_horse_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -486px;
+}
+
+.bg-skeleton_skull {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -554px;
+}
+
+.bg-skeleton_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -622px;
+}
+
+.bg-skull_banner_pattern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -690px;
+}
+
+.bg-slime_ball {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -758px;
+}
+
+.bg-slime_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -826px;
+}
+
+.bg-slime_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -894px;
+}
+
+.bg-smithing_table {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -962px;
+}
+
+.bg-smoker {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1030px;
+}
+
+.bg-smooth_quartz {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1098px;
+}
+
+.bg-smooth_quartz_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1166px;
+}
+
+.bg-smooth_quartz_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1234px;
+}
+
+.bg-smooth_red_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1302px;
+}
+
+.bg-smooth_red_sandstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1370px;
+}
+
+.bg-smooth_red_sandstone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1438px;
+}
+
+.bg-smooth_sandstone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1506px;
+}
+
+.bg-smooth_sandstone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1574px;
+}
+
+.bg-smooth_sandstone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1642px;
+}
+
+.bg-smooth_stone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1710px;
+}
+
+.bg-smooth_stone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1778px;
+}
+
+.bg-snow {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1846px;
+}
+
+.bg-snow_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1914px;
+}
+
+.bg-snowball {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1914px;
+}
+
+.bg-soul_campfire {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1914px;
+}
+
+.bg-soul_lantern {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1914px;
+}
+
+.bg-soul_sand {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1914px;
+}
+
+.bg-soul_soil {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1914px;
+}
+
+.bg-soul_torch {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1914px;
+}
+
+.bg-spawner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1914px;
+}
+
+.bg-spectral_arrow {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1914px;
+}
+
+.bg-spider_eye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1914px;
+}
+
+.bg-spider_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1914px;
+}
+
+.bg-splash_potion {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1914px;
+}
+
+.bg-sponge {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1914px;
+}
+
+.bg-spruce_boat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1914px;
+}
+
+.bg-spruce_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1914px;
+}
+
+.bg-spruce_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1914px;
+}
+
+.bg-spruce_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1914px;
+}
+
+.bg-spruce_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1914px;
+}
+
+.bg-spruce_leaves {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1914px;
+}
+
+.bg-spruce_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1914px;
+}
+
+.bg-spruce_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1914px;
+}
+
+.bg-spruce_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1914px;
+}
+
+.bg-spruce_sapling {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1914px;
+}
+
+.bg-spruce_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1914px;
+}
+
+.bg-spruce_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1914px;
+}
+
+.bg-spruce_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1914px;
+}
+
+.bg-spruce_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1914px;
+}
+
+.bg-spruce_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1914px;
+}
+
+.bg-squid_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1914px;
+}
+
+.bg-stick {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -10px;
+}
+
+.bg-sticky_piston {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -78px;
+}
+
+.bg-stone {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -146px;
+}
+
+.bg-stone_axe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -214px;
+}
+
+.bg-stone_brick_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -282px;
+}
+
+.bg-stone_brick_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -350px;
+}
+
+.bg-stone_brick_wall {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -418px;
+}
+
+.bg-stone_bricks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -486px;
+}
+
+.bg-stone_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -554px;
+}
+
+.bg-stone_hoe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -622px;
+}
+
+.bg-stone_pickaxe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -690px;
+}
+
+.bg-stone_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -758px;
+}
+
+.bg-stone_shovel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -826px;
+}
+
+.bg-stone_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -894px;
+}
+
+.bg-stone_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -962px;
+}
+
+.bg-stone_sword {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1030px;
+}
+
+.bg-stonecutter {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1098px;
+}
+
+.bg-stray_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1166px;
+}
+
+.bg-strider_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1234px;
+}
+
+.bg-string {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1302px;
+}
+
+.bg-stripped_acacia_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1370px;
+}
+
+.bg-stripped_acacia_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1438px;
+}
+
+.bg-stripped_birch_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1506px;
+}
+
+.bg-stripped_birch_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1574px;
+}
+
+.bg-stripped_crimson_hyphae {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1642px;
+}
+
+.bg-stripped_crimson_stem {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1710px;
+}
+
+.bg-stripped_dark_oak_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1778px;
+}
+
+.bg-stripped_dark_oak_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1846px;
+}
+
+.bg-stripped_jungle_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1914px;
+}
+
+.bg-stripped_jungle_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -1982px;
+}
+
+.bg-stripped_oak_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -1982px;
+}
+
+.bg-stripped_oak_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -1982px;
+}
+
+.bg-stripped_spruce_log {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -1982px;
+}
+
+.bg-stripped_spruce_wood {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -1982px;
+}
+
+.bg-stripped_warped_hyphae {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -1982px;
+}
+
+.bg-stripped_warped_stem {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -1982px;
+}
+
+.bg-structure_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -1982px;
+}
+
+.bg-structure_void {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -1982px;
+}
+
+.bg-sugar {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -1982px;
+}
+
+.bg-sugar_cane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -1982px;
+}
+
+.bg-sunflower {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -1982px;
+}
+
+.bg-suspicious_stew {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -1982px;
+}
+
+.bg-sweet_berries {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -1982px;
+}
+
+.bg-tall_grass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -1982px;
+}
+
+.bg-target {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -1982px;
+}
+
+.bg-terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -1982px;
+}
+
+.bg-tipped_arrow {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -1982px;
+}
+
+.bg-tnt {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -1982px;
+}
+
+.bg-tnt_minecart {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -1982px;
+}
+
+.bg-torch {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -1982px;
+}
+
+.bg-totem_of_undying {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -1982px;
+}
+
+.bg-trader_llama_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -1982px;
+}
+
+.bg-trapped_chest {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -1982px;
+}
+
+.bg-trident {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -1982px;
+}
+
+.bg-tripwire_hook {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -1982px;
+}
+
+.bg-tropical_fish {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -1982px;
+}
+
+.bg-tropical_fish_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -1982px;
+}
+
+.bg-tropical_fish_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -1982px;
+}
+
+.bg-tube_coral {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -1982px;
+}
+
+.bg-tube_coral_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -10px;
+}
+
+.bg-tube_coral_fan {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -78px;
+}
+
+.bg-turtle_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -146px;
+}
+
+.bg-turtle_helmet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -214px;
+}
+
+.bg-turtle_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -282px;
+}
+
+.bg-twisting_vines {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -350px;
+}
+
+.bg-vex_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -418px;
+}
+
+.bg-villager_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -486px;
+}
+
+.bg-vindicator_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -554px;
+}
+
+.bg-vine {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -622px;
+}
+
+.bg-wandering_trader_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -690px;
+}
+
+.bg-warped_button {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -758px;
+}
+
+.bg-warped_door {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -826px;
+}
+
+.bg-warped_fence {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -894px;
+}
+
+.bg-warped_fence_gate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -962px;
+}
+
+.bg-warped_fungus {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1030px;
+}
+
+.bg-warped_fungus_on_a_stick {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1098px;
+}
+
+.bg-warped_hyphae {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1166px;
+}
+
+.bg-warped_nylium {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1234px;
+}
+
+.bg-warped_planks {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1302px;
+}
+
+.bg-warped_pressure_plate {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1370px;
+}
+
+.bg-warped_roots {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1438px;
+}
+
+.bg-warped_sign {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1506px;
+}
+
+.bg-warped_slab {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1574px;
+}
+
+.bg-warped_stairs {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1642px;
+}
+
+.bg-warped_stem {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1710px;
+}
+
+.bg-warped_trapdoor {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1778px;
+}
+
+.bg-warped_wart_block {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1846px;
+}
+
+.bg-water_bucket {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1914px;
+}
+
+.bg-weeping_vines {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -1982px;
+}
+
+.bg-wet_sponge {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -10px -2050px;
+}
+
+.bg-wheat {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -78px -2050px;
+}
+
+.bg-wheat_seeds {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -146px -2050px;
+}
+
+.bg-white_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -214px -2050px;
+}
+
+.bg-white_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -282px -2050px;
+}
+
+.bg-white_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -350px -2050px;
+}
+
+.bg-white_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -418px -2050px;
+}
+
+.bg-white_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -486px -2050px;
+}
+
+.bg-white_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -554px -2050px;
+}
+
+.bg-white_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -622px -2050px;
+}
+
+.bg-white_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -690px -2050px;
+}
+
+.bg-white_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -758px -2050px;
+}
+
+.bg-white_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -826px -2050px;
+}
+
+.bg-white_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -894px -2050px;
+}
+
+.bg-white_tulip {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -962px -2050px;
+}
+
+.bg-white_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1030px -2050px;
+}
+
+.bg-witch_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1098px -2050px;
+}
+
+.bg-wither_rose {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1166px -2050px;
+}
+
+.bg-wither_skeleton_skull {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1234px -2050px;
+}
+
+.bg-wither_skeleton_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1302px -2050px;
+}
+
+.bg-wolf_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1370px -2050px;
+}
+
+.bg-wooden_axe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1438px -2050px;
+}
+
+.bg-wooden_hoe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1506px -2050px;
+}
+
+.bg-wooden_pickaxe {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1574px -2050px;
+}
+
+.bg-wooden_shovel {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1642px -2050px;
+}
+
+.bg-wooden_sword {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1710px -2050px;
+}
+
+.bg-writable_book {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1778px -2050px;
+}
+
+.bg-written_book {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1846px -2050px;
+}
+
+.bg-yellow_banner {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1914px -2050px;
+}
+
+.bg-yellow_bed {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -1982px -2050px;
+}
+
+.bg-yellow_carpet {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2050px -2050px;
+}
+
+.bg-yellow_concrete {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -10px;
+}
+
+.bg-yellow_concrete_powder {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -78px;
+}
+
+.bg-yellow_dye {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -146px;
+}
+
+.bg-yellow_glazed_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -214px;
+}
+
+.bg-yellow_shulker_box {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -282px;
+}
+
+.bg-yellow_stained_glass {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -350px;
+}
+
+.bg-yellow_stained_glass_pane {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -418px;
+}
+
+.bg-yellow_terracotta {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -486px;
+}
+
+.bg-yellow_wool {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -554px;
+}
+
+.bg-zoglin_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -622px;
+}
+
+.bg-zombie_head {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -690px;
+}
+
+.bg-zombie_horse_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -758px;
+}
+
+.bg-zombie_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -826px;
+}
+
+.bg-zombie_villager_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -894px;
+}
+
+.bg-zombified_piglin_spawn_egg {
+    width: 48px;
+    height: 48px;
+    background: url('../img/css_sprites.png') -2118px -962px;
+}

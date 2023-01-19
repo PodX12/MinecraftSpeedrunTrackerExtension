@@ -1,0 +1,204 @@
+[
+    {
+        "id": "minecraft:wither_skeleton_skull",
+        "parent": "minecraft:picked_up",
+        "name": "Wither Skulls",
+        "complete": false,
+        "count": 0,
+        "total": 3,
+        "class": "bg-wither_skeleton_skull",
+        "description": "Collect 3 wither skulls to summon and kill the wither."
+    },
+    {
+        "id": "minecraft:tnt",
+        "parent": "minecraft:picked_up",
+        "name": "TNT",
+        "complete": false,
+        "count": 0,
+        "total": 100,
+        "class": "bg-tnt",
+        "description": "Collect roughly 100 TNT to mine for ancient debris"
+    },
+    {
+        "id": "minecraft:ancient_debris",
+        "parent": "minecraft:picked_up",
+        "name": "Ancient Debris",
+        "complete": false,
+        "count": 0,
+        "total": 20,
+        "class": "bg-ancient_debris",
+        "description": "Obtain 20 ancient debris to make 5 netherite ingots for Serious Dedication and Cover Me in Debris"
+    },
+    {
+        "id": "minecraft:rare_biomes",
+        "parent": "minecraft:picked_up",
+        "name": "Rare Biomes",
+        "complete": false,
+        "count": 0,
+        "total": 5,
+        "class": "bg-red_mushroom_block",
+        "description": "Find all rare biomes",
+        "splits": [
+            {
+                "id": "minecraft:jungle",
+                "name": "Jungle",
+                "class": "jungle",
+                "group": "jungle"
+            },
+            {
+                "id": "minecraft:jungle_edge",
+                "name": "Jungle Edge",
+                "class": "jungle_edge",
+                "group": "jungle"
+            },
+            {
+                "id": "minecraft:jungle_hills",
+                "name": "Jungle Hills",
+                "class": "jungle_hills",
+                "group": "jungle"
+            },
+            {
+                "id": "minecraft:bamboo_jungle",
+                "name": "Bamboo",
+                "class": "bamboo_jungle",
+                "group": "jungle"
+            },
+            {
+                "id": "minecraft:bamboo_jungle_hills",
+                "name": "Bamboo Hills",
+                "class": "bamboo_jungle_hills",
+                "group": "jungle"
+            },
+            {
+                "id": "minecraft:snowy_taiga",
+                "name": "Snowy Taiga",
+                "class": "snowy_taiga",
+                "group": "snowy"
+            },
+            {
+                "id": "minecraft:snowy_taiga_hills",
+                "name": "Snowy Taiga Hill",
+                "class": "snowy_taiga_hills",
+                "group": "snowy"
+            },
+            {
+                "id": "minecraft:snowy_tundra",
+                "name": "Snowy Tundra",
+                "class": "snowy_tundra",
+                "group": "snowy"
+            },
+            {
+                "id": "minecraft:snowy_mountains",
+                "name": "Snowy Mountain",
+                "class": "snowy_mountains",
+                "group": "snowy"
+            },
+            {
+                "id": "minecraft:snowy_beach",
+                "name": "Snowy Beach",
+                "class": "snowy_beach",
+                "group": "snowy"
+            },
+            {
+                "id": "minecraft:badlands",
+                "name": "Badlands",
+                "class": "badlands",
+                "group": "badlands"
+            },
+            {
+                "id": "minecraft:badlands_plateau",
+                "name": "Badlands Plateau",
+                "class": "badlands_plateau",
+                "group": "badlands"
+            },
+            {
+                "id": "minecraft:wooded_badlands_plateau",
+                "name": "Wooded Badlands Plateau",
+                "class": "wooded_badlands_plateau",
+                "group": "badlands"
+            },
+            {
+                "id": "minecraft:mushroom_fields",
+                "name": "Mushroom Fields",
+                "class": "mushroom_fields",
+                "group": "mushroom"
+
+            },
+            {
+                "id": "minecraft:mushroom_field_shore",
+                "name": "Mushroom Shore",
+                "class": "mushroom_field_shore",
+                "group": "mushroom"
+            },
+            {
+                "id": "minecraft:giant_tree_taiga",
+                "name": "Mega Taiga",
+                "class": "giant_tree_taiga",
+                "group": "giant_tree_taiga"
+            },
+            {
+                "id": "minecraft:giant_tree_taiga_hills",
+                "name": "Mega Taiga Hill",
+                "class": "giant_tree_taiga_hills",
+                "group": "giant_tree_taiga"
+            }
+        ]
+    },
+    {
+        "id": "minecraft:trident",
+        "parent": "minecraft:picked_up",
+        "name": "Get Trident",
+        "complete": false,
+        "count": 0,
+        "total": 1,
+        "class": "bg-trident",
+        "description": "Obtain a trident for Throw Away Joke and Very Very Frightening (also requires Channelling)"
+    },
+    {
+        "id": "minecraft:gold_block",
+        "parent": "minecraft:picked_up",
+        "name": "Gold Blocks",
+        "complete": false,
+        "count": 0,
+        "total": 164,
+        "class": "bg-gold_block",
+        "description": "Obtain 164 Gold Blocks to make a full power beacon"
+    },
+    {
+        "id": "minecraft:nautilus_shell",
+        "parent": "minecraft:picked_up",
+        "name": "Nautilus Shells",
+        "complete": false,
+        "count": 0,
+        "total": 8,
+        "splits": [],
+        "class": "bg-nautilus_shell",
+        "description": "Collect 8 Nautilus Shells to make a Conduit for the Conduit Power effect required for How Did We Get Here"
+    },
+    {
+        "id": "minecraft:enchanted_golden_apple",
+        "parent": "minecraft:picked_up",
+        "name": "Get God Apple",
+        "complete": false,
+        "class": "bg-enchanted_golden_apple",
+        "description": "One Enchanted Golden Apple is required for A Balanced Diet and also used for the effects it gives during How Did We Get Here"
+    },
+    {
+        "id": "minecraft:bee_nest",
+        "parent": "minecraft:picked_up",
+        "name": "Bee Nests",
+        "complete": false,
+        "count": 0,
+        "total": 2,
+        "class": "bg-bee_nest",
+        "description": "Collect 2 or more Bee Nests and also obtain the Total Beelocation Advancement"
+    },
+    {
+        "id": "minecraft:hdm",
+        "parent": "minecraft:picked_up",
+        "name": "Breed Horse, Donkey, Mule",
+        "complete": false,
+        "class": "bg-lead",
+        "description": "Breed horses, donkeys and a horse and a donkey."
+    }
+]

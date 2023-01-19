@@ -1,0 +1,601 @@
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+}
+
+span.plains {
+    background-image: url(../img/biomes/plains.png);
+}
+
+span.forest {
+    background-image: url(../img/biomes/forest.png);
+}
+
+span.wooded_hills {
+    background-image: url(../img/biomes/wooded_hills.png);
+}
+
+span.birch_forest {
+    background-image: url(../img/biomes/birch_forest.png);
+}
+
+span.birch_forest_hills {
+    background-image: url(../img/biomes/birch_forest_hills.png);
+}
+
+span.dark_forest {
+    background-image: url(../img/biomes/dark_forest.png);
+}
+
+span.swamp {
+    background-image: url(../img/biomes/swamp.png);
+}
+
+span.taiga {
+    background-image: url(../img/biomes/taiga.png);
+}
+
+span.taiga_hills {
+    background-image: url(../img/biomes/taiga_hills.png);
+}
+
+span.giant_tree_taiga {
+    background-image: url(../img/biomes/giant_tree_taiga.png);
+}
+
+span.giant_tree_taiga_hills {
+    background-image: url(../img/biomes/giant_tree_taiga_hills.png);
+}
+
+span.snowy_taiga {
+    background-image: url(../img/biomes/snowy_taiga.png);
+}
+
+span.snowy_taiga_hills {
+    background-image: url(../img/biomes/snowy_taiga_hills.png);
+}
+
+span.snowy_tundra {
+    background-image: url(../img/biomes/snowy_tundra.png);
+}
+
+span.snowy_mountains {
+    background-image: url(../img/biomes/snowy_mountains.png);
+}
+
+span.snowy_beach {
+    background-image: url(../img/biomes/snowy_beach.png);
+}
+
+span.frozen_river {
+    background-image: url(../img/biomes/frozen_river.png);
+}
+
+span.river {
+    background-image: url(../img/biomes/river.png);
+}
+
+span.desert {
+    background-image: url(../img/biomes/desert.png);
+}
+
+span.desert_hills {
+    background-image: url(../img/biomes/desert_hills.png);
+}
+
+span.savanna {
+    background-image: url(../img/biomes/savanna.png);
+}
+
+span.savanna_plateau {
+    background-image: url(../img/biomes/savanna_plateau.png);
+}
+
+span.jungle {
+    background-image: url(../img/biomes/jungle.png);
+}
+
+span.jungle_edge {
+    background-image: url(../img/biomes/jungle_edge.png);
+}
+
+span.jungle_hills {
+    background-image: url(../img/biomes/jungle_hills.png);
+}
+
+span.bamboo_jungle {
+    background-image: url(../img/biomes/bamboo_jungle.png);
+}
+
+span.bamboo_jungle_hills {
+    background-image: url(../img/biomes/bamboo_jungle_hills.png);
+}
+
+span.stone_shore {
+    background-image: url(../img/biomes/stone_shore.png);
+}
+
+span.mountains {
+    background-image: url(../img/biomes/mountains.png);
+}
+
+span.wooded_mountains {
+    background-image: url(../img/biomes/wooded_mountains.png);
+}
+
+span.badlands {
+    background-image: url(../img/biomes/badlands.png);
+}
+
+span.badlands_plateau {
+    background-image: url(../img/biomes/badlands_plateau.png);
+}
+
+span.wooded_badlands_plateau {
+    background-image: url(../img/biomes/wooded_badlands_plateau.png);
+}
+
+span.mushroom_fields {
+    background-image: url(../img/biomes/mushroom_fields.png);
+}
+
+span.mushroom_field_shore {
+    background-image: url(../img/biomes/mushroom_field_shore.png);
+}
+
+span.beach {
+    background-image: url(../img/biomes/beach.png);
+}
+
+span.warm_ocean {
+    background-image: url(../img/biomes/warm_ocean.png);
+}
+
+span.lukewarm_ocean {
+    background-image: url(../img/biomes/lukewarm_ocean.png);
+}
+
+span.deep_lukewarm_ocean {
+    background-image: url(../img/biomes/deep_lukewarm_ocean.png);
+}
+
+span.cold_ocean {
+    background-image: url(../img/biomes/cold_ocean.png);
+}
+
+span.deep_cold_ocean {
+    background-image: url(../img/biomes/deep_cold_ocean.png);
+}
+
+span.deep_frozen_ocean {
+    background-image: url(../img/biomes/deep_frozen_ocean.png);
+}
+
+span.creeper {
+    background-image: url(../img/mobs/creeper.png);
+}
+
+span.zombie {
+    background-image: url(../img/mobs/zombie.png);
+}
+
+span.skeleton {
+    background-image: url(../img/mobs/skeleton.png);
+}
+
+span.husk {
+    background-image: url(../img/mobs/husk.png);
+}
+
+span.drowned {
+    background-image: url(../img/mobs/drowned.png);
+}
+
+span.stray {
+    background-image: url(../img/mobs/stray.png);
+}
+
+span.spider {
+    background-image: url(../img/mobs/spider.png);
+}
+
+span.cave_spider {
+    background-image: url(../img/mobs/cave_spider.png);
+}
+
+span.enderman {
+    background-image: url(../img/mobs/enderman.png);
+}
+
+span.slime {
+    background-image: url(../img/mobs/slime.png);
+}
+
+span.magma_cube {
+    background-image: url(../img/mobs/magma_cube.png);
+}
+
+span.ghast {
+    background-image: url(../img/mobs/ghast.png);
+}
+
+span.blaze {
+    background-image: url(../img/mobs/blaze.png);
+}
+
+span.wither_skeleton {
+    background-image: url(../img/mobs/wither_skeleton.png);
+}
+
+span.piglin {
+    background-image: url(../img/mobs/piglin.png);
+}
+
+span.zombified_piglin {
+    background-image: url(../img/mobs/zombified_piglin.png);
+}
+
+span.hoglin {
+    background-image: url(../img/mobs/hoglin.png);
+}
+
+span.zoglin {
+    background-image: url(../img/mobs/zoglin.png);
+}
+
+span.silverfish {
+    background-image: url(../img/mobs/silverfish.png);
+}
+
+span.ender_dragon {
+    background-image: url(../img/mobs/ender_dragon.png);
+}
+
+span.endermite {
+    background-image: url(../img/mobs/endermite.png);
+}
+
+span.shulker {
+    background-image: url(../img/mobs/shulker.png);
+}
+
+span.wither {
+    background-image: url(../img/mobs/wither.png);
+}
+
+span.phantom {
+    background-image: url(../img/mobs/phantom.png);
+}
+
+span.guardian {
+    background-image: url(../img/mobs/guardian.png);
+}
+
+span.elder_guardian {
+    background-image: url(../img/mobs/elder_guardian.png);
+}
+
+span.zombie_villager {
+    background-image: url(../img/mobs/zombie_villager.png);
+}
+
+span.witch {
+    background-image: url(../img/mobs/witch.png);
+}
+
+span.pillager {
+    background-image: url(../img/mobs/pillager.png);
+}
+
+span.vindicator {
+    background-image: url(../img/mobs/vindicator.png);
+}
+
+span.evoker {
+    background-image: url(../img/mobs/evoker.png);
+}
+
+span.vex {
+    background-image: url(../img/mobs/vex.png);
+}
+
+span.ravager {
+    background-image: url(../img/mobs/ravager.png);
+}
+
+span.nether_wastes {
+    background-image: url(../img/biomes/nether_wastes.png);
+}
+
+span.crimson_forest {
+    background-image: url(../img/biomes/crimson_forest.png);
+}
+
+span.warped_forest {
+    background-image: url(../img/biomes/warped_forest.png);
+}
+
+span.basalt_deltas {
+    background-image: url(../img/biomes/basalt_deltas.png);
+}
+
+span.soul_sand_valley {
+    background-image: url(../img/biomes/soul_sand_valley.png);
+}
+
+span.pig {
+    background-image: url(../img/animals/pig.png);
+}
+
+span.sheep {
+    background-image: url(../img/animals/sheep.png);
+}
+
+span.chicken {
+    background-image: url(../img/animals/chicken.png);
+}
+
+span.cow {
+    background-image: url(../img/animals/cow.png);
+}
+
+span.mooshroom {
+    background-image: url(../img/animals/mooshroom.png);
+}
+
+span.cat {
+    background-image: url(../img/animals/cat.png);
+}
+
+span.ocelot {
+    background-image: url(../img/animals/ocelot.png);
+}
+
+span.wolf {
+    background-image: url(../img/animals/wolf.png);
+}
+
+span.fox {
+    background-image: url(../img/animals/fox.png);
+}
+
+span.rabbit {
+    background-image: url(../img/animals/rabbit.png);
+}
+
+span.bee {
+    background-image: url(../img/animals/bee.png);
+}
+
+span.horse {
+    background-image: url(../img/animals/horse.png);
+}
+
+span.donkey {
+    background-image: url(../img/animals/donkey.png);
+}
+
+span.mule {
+    background-image: url(../img/animals/mule.png);
+}
+
+span.llama {
+    background-image: url(../img/animals/llama.png);
+}
+
+span.panda {
+    background-image: url(../img/animals/panda.png);
+}
+
+span.turtle {
+    background-image: url(../img/animals/turtle.png);
+}
+
+span.strider {
+    background-image: url(../img/animals/strider.png);
+}
+
+span.hoglin {
+    background-image: url(../img/animals/hoglin.png);
+}
+
+span.bread {
+    background-image: url(../img/food/bread.png);
+}
+
+span.cooked_porkchop {
+    background-image: url(../img/food/cooked_porkchop.png);
+}
+
+span.porkchop {
+    background-image: url(../img/food/porkchop.png);
+}
+
+span.cooked_beef {
+    background-image: url(../img/food/cooked_beef.png);
+}
+
+span.beef {
+    background-image: url(../img/food/beef.png);
+}
+
+span.cooked_chicken {
+    background-image: url(../img/food/cooked_chicken.png);
+}
+
+span.chicken {
+    background-image: url(../img/food/raw_chicken.png);
+}
+
+span.cooked_mutton {
+    background-image: url(../img/food/cooked_mutton.png);
+}
+
+span.mutton {
+    background-image: url(../img/food/mutton.png);
+}
+
+span.cooked_rabbit {
+    background-image: url(../img/food/cooked_rabbit.png);
+}
+
+span.rabbit {
+    background-image: url(../img/food/raw_rabbit.png);
+}
+
+span.cooked_cod {
+    background-image: url(../img/food/cooked_cod.png);
+}
+
+span.cod {
+    background-image: url(../img/food/cod.png);
+}
+
+span.tropical_fish {
+    background-image: url(../img/food/tropical_fish.png);
+}
+
+span.cooked_salmon {
+    background-image: url(../img/food/cooked_salmon.png);
+}
+
+span.salmon {
+    background-image: url(../img/food/salmon.png);
+}
+
+span.pufferfish {
+    background-image: url(../img/food/pufferfish.png);
+}
+
+span.cookie {
+    background-image: url(../img/food/cookie.png);
+}
+
+span.pumpkin_pie {
+    background-image: url(../img/food/pumpkin_pie.png);
+}
+
+span.apple {
+    background-image: url(../img/food/apple.png);
+}
+
+span.golden_apple {
+    background-image: url(../img/food/golden_apple.png);
+}
+
+span.enchanted_golden_apple {
+    background-image: url(../img/food/enchanted_golden_apple.png);
+}
+
+span.golden_carrot {
+    background-image: url(../img/food/golden_carrot.png);
+}
+
+span.carrot {
+    background-image: url(../img/food/carrot.png);
+}
+
+span.melon_slice {
+    background-image: url(../img/food/melon_slice.png);
+}
+
+span.baked_potato {
+    background-image: url(../img/food/baked_potato.png);
+}
+
+span.potato {
+    background-image: url(../img/food/potato.png);
+}
+
+span.poisonous_potato {
+    background-image: url(../img/food/poisonous_potato.png);
+}
+
+span.beetroot {
+    background-image: url(../img/food/beetroot.png);
+}
+
+span.sweet_berries {
+    background-image: url(../img/food/sweet_berries.png);
+}
+
+span.chorus_fruit {
+    background-image: url(../img/food/chorus_fruit.png);
+}
+
+span.mushroom_stew {
+    background-image: url(../img/food/mushroom_stew.png);
+}
+
+span.suspicious_stew {
+    background-image: url(../img/food/suspicious_stew.png);
+}
+
+span.rabbit_stew {
+    background-image: url(../img/food/rabbit_stew.png);
+}
+
+span.beetroot_soup {
+    background-image: url(../img/food/beetroot_soup.png);
+}
+
+span.dried_kelp {
+    background-image: url(../img/food/dried_kelp.png);
+}
+
+span.honey_bottle {
+    background-image: url(../img/food/honey_bottle.png);
+}
+
+span.rotten_flesh {
+    background-image: url(../img/food/rotten_flesh.png);
+}
+
+span.spider_eye {
+    background-image: url(../img/food/spider_eye.png);
+}
+
+span.jellie {
+    background-image: url(../img/cats/jellie.png);
+}
+
+span.calico {
+    background-image: url(../img/cats/calico.png);
+}
+
+span.red {
+    background-image: url(../img/cats/red.png);
+}
+
+span.black {
+    background-image: url(../img/cats/tuxedo.png);
+}
+
+span.white {
+    background-image: url(../img/cats/white.png);
+}
+
+span.ragdoll {
+    background-image: url(../img/cats/ragdoll.png);
+}
+
+span.british_shorthair {
+    background-image: url(../img/cats/british_shorthair.png);
+}
+
+span.tabby {
+    background-image: url(../img/cats/tabby.png);
+}
+
+span.all_black {
+    background-image: url(../img/cats/black.png);
+}
+
+span.persian {
+    background-image: url(../img/cats/persian.png);
+}
+
+span.siamese {
+    background-image: url(../img/cats/siamese.png);
+}
