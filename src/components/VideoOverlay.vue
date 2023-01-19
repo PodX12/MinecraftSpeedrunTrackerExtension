@@ -15,7 +15,8 @@
                     </div>
 
                     <div>
-                        <div v-for="sub in subGoals" :key="sub.id" class="adv-item" :class="{ 'done': sub.complete }">
+                        <div v-for="sub in subGoals" :key="sub.id" class="adv-item" :class="{ 'done': sub.complete }"
+                            @click="togglePinned(sub)">
                             <div class="adv-img sub" @mouseover="hoverAdv = sub" @mouseleave="hoverAdv = null">
                                 <div v-bind:class="[sub.class]"></div>
                                 <div class="adv-count" v-if="sub.total">
@@ -82,7 +83,14 @@
                         </div>
                     </div>
                 </div>
+
+                <div @click="showEasterEgg()" class="ee"></div>
+                <div class="garfield" v-if="showEE">
+                    <img src="../assets/img/garfield.gif" />
+                </div>
             </div>
+
+
             <div class="summary" @click="isShowing = !isShowing">
                 <div class="summary-item">
                     <div class='item-display'>
@@ -92,6 +100,14 @@
                 <div class="summary-item">
                     <div class='item-display show-more'>
                         {{ isShowing? 'Show Less': 'Show More' }}
+                    </div>
+                </div>
+                <div class="summary-item" v-for="pin in pinned" :key="pin.id">
+                    <div class='item-display' :class="{ 'done': pin.complete }">
+                        <div :class="[pin.class]" style="transform: scale(0.8);"></div>
+                        <div class="adv-count" v-if="pin.total">
+                            {{ pin.count }}/{{ pin.total }}
+                        </div>
                     </div>
                 </div>
             </div>
@@ -129,8 +145,8 @@
 
 <script>
 import firebase from '../firebase/firebase';
-import advjson from "../assets/adv.json"
-import subGoals from "../assets/sub-goals.json"
+import advjson from "../assets/adv.json";
+import subGoals from "../assets/sub-goals.json";
 
 //TEST RECORDS
 //import testRecord from "../assets/pound-record.json"
@@ -154,7 +170,9 @@ export default {
             hoverAdv: null,
             userKey: "",
             subGoals: subGoals,
-            splits: []
+            splits: [],
+            pinned: [],
+            showEE: false
         }
     },
     mounted() {
@@ -196,7 +214,6 @@ export default {
                 }
             }
         });
-
     },
     methods: {
         updateRecord: function () {
@@ -541,6 +558,24 @@ export default {
             var adv = this.record.advancements[advName];
             if (adv && adv.complete)
                 return splits.push({ "name": name, "igt": adv.igt, "rta": adv.rta });
+        },
+        togglePinned: function (pin) {
+            var pinIndex = this.pinned.findIndex(p => p == pin);
+            if (pinIndex >= 0) {
+                console.log("remove " + pinIndex);
+                this.pinned.splice(pinIndex, 1);
+            } else {
+                if (this.pinned.length < 3)
+                    this.pinned.push(pin);
+            }
+
+        },
+        showEasterEgg: function () {
+            //PodX12 Chat Garfield Easter Egg
+            console.log("Show Easter Egg");
+            this.showEE = true;
+            var that = this;
+            setTimeout(() => { that.showEE = false; }, 5000);
         }
     }
 }
